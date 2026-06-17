@@ -1,0 +1,990 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    table { border-collapse: collapse; font-family: Arial, sans-serif; font-size: 12px; }
+    th { background: #1f4e78; color: white; font-weight: bold; }
+    th, td { border: 1px solid #d0d7de; padding: 6px 8px; vertical-align: top; }
+  </style>
+</head>
+<body>
+  <table>
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Portal</th>
+        <th>Categoria</th>
+        <th>Empresa</th>
+        <th>Rol</th>
+        <th>Ubicacion</th>
+        <th>Busqueda</th>
+        <th>URL</th>
+        <th>Resumen</th>
+      </tr>
+    </thead>
+    <tbody>
+
+    <tr>
+      <td>1</td>
+      <td>ATS directo</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Canonical</td>
+      <td>Cloud Engineering Manager</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/canonical/jobs/4676649">https://job-boards.greenhouse.io/canonical/jobs/4676649</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>2</td>
+      <td>ATS directo</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Canonical</td>
+      <td>Software Engineering Manager - Container and Virtualisation Infrastructure</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/canonical/jobs/4086684">https://job-boards.greenhouse.io/canonical/jobs/4086684</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>3</td>
+      <td>ATS directo</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Canonical</td>
+      <td>Cloud Field Engineering Manager</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/canonical/jobs/7410479">https://job-boards.greenhouse.io/canonical/jobs/7410479</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>4</td>
+      <td>ATS directo</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Canonical</td>
+      <td>Engineering Manager - Public Cloud, Python, Golang</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/canonical/jobs/4144793">https://job-boards.greenhouse.io/canonical/jobs/4144793</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>5</td>
+      <td>ATS directo</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Canonical</td>
+      <td>Engineering Manager - Security Standards and Hardening</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/canonical/jobs/6215514">https://job-boards.greenhouse.io/canonical/jobs/6215514</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>6</td>
+      <td>ATS directo</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Canonical</td>
+      <td>Engineering Manager - Ubuntu Security</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/canonical/jobs/4192903">https://job-boards.greenhouse.io/canonical/jobs/4192903</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>7</td>
+      <td>ATS directo</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Canonical</td>
+      <td>Support Engineering Manager</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/canonical/jobs/6854119">https://job-boards.greenhouse.io/canonical/jobs/6854119</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>8</td>
+      <td>ATS directo</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Canonical</td>
+      <td>Enterprise Project Manager</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/canonical/jobs/3256589">https://job-boards.greenhouse.io/canonical/jobs/3256589</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>9</td>
+      <td>ATS directo</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Canonical</td>
+      <td>Project Manager - Ubuntu Embedded Systems</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/canonical/jobs/2808065">https://job-boards.greenhouse.io/canonical/jobs/2808065</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>10</td>
+      <td>ATS directo</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Canonical</td>
+      <td>Public Cloud Project Manager</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/canonical/jobs/4732475">https://job-boards.greenhouse.io/canonical/jobs/4732475</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>11</td>
+      <td>ATS directo</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Caylent</td>
+      <td>Project Manager</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/caylent/jobs/5615167004">https://job-boards.greenhouse.io/caylent/jobs/5615167004</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>12</td>
+      <td>ATS directo</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Caylent</td>
+      <td>Senior Project Manager</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/caylent/jobs/6001312004">https://job-boards.greenhouse.io/caylent/jobs/6001312004</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>13</td>
+      <td>ATS directo</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Clara</td>
+      <td>Product Lead (Líder de Producto) - LATAM</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/clara/jobs/5142970007">https://job-boards.greenhouse.io/clara/jobs/5142970007</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>14</td>
+      <td>ATS directo</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Clara</td>
+      <td>Senior Product Manager (Gerente/a Senior de Producto) – LATAM (Remote)</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/clara/jobs/4721896007">https://job-boards.greenhouse.io/clara/jobs/4721896007</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>15</td>
+      <td>ATS directo</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Clara</td>
+      <td>Product Lead (Líder de Producto) - LATAM</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/clara/jobs/5142952007">https://job-boards.greenhouse.io/clara/jobs/5142952007</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>16</td>
+      <td>ATS directo</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Clara</td>
+      <td>Mobile Product Lead – LATAM</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/clara/jobs/5135800007">https://job-boards.greenhouse.io/clara/jobs/5135800007</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>17</td>
+      <td>ATS directo</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Clara</td>
+      <td>Product Lead, Invoice Automation</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/clara/jobs/5136255007">https://job-boards.greenhouse.io/clara/jobs/5136255007</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>18</td>
+      <td>ATS directo</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Clara</td>
+      <td>Product Lead (Líder de Producto) - LATAM</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/clara/jobs/5142956007">https://job-boards.greenhouse.io/clara/jobs/5142956007</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>19</td>
+      <td>ATS directo</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Clara</td>
+      <td>Product Lead - Risk</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/clara/jobs/5153328007">https://job-boards.greenhouse.io/clara/jobs/5153328007</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>20</td>
+      <td>ATS directo</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Clara</td>
+      <td>Product Lead (Líder de Producto) - LATAM</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/clara/jobs/5136291007">https://job-boards.greenhouse.io/clara/jobs/5136291007</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>21</td>
+      <td>ATS directo</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Cloudflare</td>
+      <td>Project Manager, Public Sector</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://boards.greenhouse.io/cloudflare/jobs/7964653?gh_jid=7964653">https://boards.greenhouse.io/cloudflare/jobs/7964653?gh_jid=7964653</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>22</td>
+      <td>ATS directo</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>GitLab</td>
+      <td>Engineering Manager, Software Supply Chain Security: Pipeline Security</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/gitlab/jobs/8339221002">https://job-boards.greenhouse.io/gitlab/jobs/8339221002</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>23</td>
+      <td>ATS directo</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Supabase</td>
+      <td>Core Product Lead</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://jobs.ashbyhq.com/supabase/f2f28afa-4b42-43c7-b977-48f5b686fba2">https://jobs.ashbyhq.com/supabase/f2f28afa-4b42-43c7-b977-48f5b686fba2</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>24</td>
+      <td>ATS directo</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>VTEX</td>
+      <td>Engineering Manager, Cloud Storage</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/vtex/jobs/5889103004">https://job-boards.greenhouse.io/vtex/jobs/5889103004</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>25</td>
+      <td>Get on Board</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Full time</td>
+      <td>Technical Leader – Microsoft Analytics &amp; BI</td>
+      <td>Remote/LATAM or Argentina eligible</td>
+      <td>devops</td>
+      <td><a href="https://www.getonbrd.com/jobs/data-science-analytics/technical-leader-microsoft-analytics-bi-devups-remote">https://www.getonbrd.com/jobs/data-science-analytics/technical-leader-microsoft-analytics-bi-devups-remote</a></td>
+      <td>✨ Lidera equipos técnicos en Analytics y BI usando tecnologías Microsoft, diseñando arquitecturas de datos y desarrollando soluciones ETL/ELT con Power BI, Azure Data Factory y Synapse. Requiere experiencia en modelado de datos, gobernanza y metodologías ágiles.</td>
+    </tr>
+
+    <tr>
+      <td>26</td>
+      <td>Get on Board</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Full time</td>
+      <td>Project Manager TI – Datos</td>
+      <td>Remote/LATAM or Argentina eligible</td>
+      <td>devops</td>
+      <td><a href="https://www.getonbrd.com/jobs/innovacion-agilidad/project-manager-ti-datos-devups-remote-e3ff">https://www.getonbrd.com/jobs/innovacion-agilidad/project-manager-ti-datos-devups-remote-e3ff</a></td>
+      <td>✨ Lidera proyectos tecnológicos y de datos, coordinando equipos y stakeholders, aplicando metodologías ágiles y tradicionales. Requiere experiencia en gestión integral de proyectos, comunicación efectiva y manejo de herramientas como Jira o Azure DevOps.</td>
+    </tr>
+
+    <tr>
+      <td>27</td>
+      <td>Get on Board</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Full time</td>
+      <td>Project Manager</td>
+      <td>Remote/LATAM or Argentina eligible</td>
+      <td>devops</td>
+      <td><a href="https://www.getonbrd.com/jobs/innovation-agile/project-manager-zerviz-technologies-santiago-3fab">https://www.getonbrd.com/jobs/innovation-agile/project-manager-zerviz-technologies-santiago-3fab</a></td>
+      <td>✨ Jefe de proyectos con 5+ años en TI y transformación digital, bilingüe y certificado PMI. Lidera implementaciones CRM y soluciones CX, gestiona alcance, tiempos, presupuestos y equipos en entornos ágiles.</td>
+    </tr>
+
+    <tr>
+      <td>28</td>
+      <td>Get on Board</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Full time</td>
+      <td>Project Manager</td>
+      <td>Remote/LATAM or Argentina eligible</td>
+      <td>devops</td>
+      <td><a href="https://www.getonbrd.com/jobs/innovation-agile/project-manager-factor-it-medellin">https://www.getonbrd.com/jobs/innovation-agile/project-manager-factor-it-medellin</a></td>
+      <td>✨ Lidera proyectos tecnológicos con enfoque en gestión integral, anticipación de riesgos y toma de decisiones bajo presión. Requiere experiencia en dirección de equipos y aplicación práctica de metodologías ágiles, predictivas o híbridas.</td>
+    </tr>
+
+    <tr>
+      <td>29</td>
+      <td>Get on Board</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Full time</td>
+      <td>Gerente Digital Tecnología</td>
+      <td>Remote/LATAM or Argentina eligible</td>
+      <td>devops</td>
+      <td><a href="https://www.getonbrd.com/jobs/operations-management/gerente-digital-tecnologia-tcit-santiago">https://www.getonbrd.com/jobs/operations-management/gerente-digital-tecnologia-tcit-santiago</a></td>
+      <td>✨ Líder tecnológico senior con experiencia en transformación digital, gestión de equipos y proyectos en la nube, especialmente en banca o fintech. Requiere habilidades en arquitectura, DevOps y comunicación con stakeholders.</td>
+    </tr>
+
+    <tr>
+      <td>30</td>
+      <td>Get on Board</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Full time</td>
+      <td>Rcm Service Lead</td>
+      <td>Remote/LATAM or Argentina eligible</td>
+      <td>devops</td>
+      <td><a href="https://www.getonbrd.com/jobs/operations-management/rcm-service-lead-autoraptor-remote">https://www.getonbrd.com/jobs/operations-management/rcm-service-lead-autoraptor-remote</a></td>
+      <td>✨ Lead and build full-cycle revenue cycle management for outpatient rehab therapy billing, partnering with product teams to improve KPIs and automate billing processes. Requires deep RCM expertise, leadership, and US work authorization.</td>
+    </tr>
+
+    <tr>
+      <td>31</td>
+      <td>Get on Board</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Full time</td>
+      <td>Community Lead (Finanzas y Cripto)</td>
+      <td>Remote/LATAM or Argentina eligible</td>
+      <td>devops</td>
+      <td><a href="https://www.getonbrd.com/jobs/digital-marketing/community-lead-finanzas-y-cripto-delphi-one-remote">https://www.getonbrd.com/jobs/digital-marketing/community-lead-finanzas-y-cripto-delphi-one-remote</a></td>
+      <td>✨ Lidera y activa una comunidad enfocada en finanzas, inversiones y cripto, creando contenido analítico y fomentando debates basados en razonamiento crítico y fundamentos claros.</td>
+    </tr>
+
+    <tr>
+      <td>32</td>
+      <td>Get on Board</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Full time</td>
+      <td>Subgerente de Seguridad de la Información</td>
+      <td>Remote/LATAM or Argentina eligible</td>
+      <td>devops</td>
+      <td><a href="https://www.getonbrd.com/jobs/cybersecurity/subgerente-de-seguridad-de-la-informacion-bnp-paribas-cardif-santiago-c20f">https://www.getonbrd.com/jobs/cybersecurity/subgerente-de-seguridad-de-la-informacion-bnp-paribas-cardif-santiago-c20f</a></td>
+      <td>✨ Rol enfocado en desarrollar cultura organizacional para gestionar riesgos, continuidad del negocio y cumplimiento normativo, asegurando resiliencia y alineación con estándares internacionales y necesidades del negocio.</td>
+    </tr>
+
+    <tr>
+      <td>33</td>
+      <td>Get on Board</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Full time</td>
+      <td>Lead Product Designer</td>
+      <td>Remote/LATAM or Argentina eligible</td>
+      <td>devops</td>
+      <td><a href="https://www.getonbrd.com/jobs/design-ux/product-design-lead-apply-digital-latam-remote">https://www.getonbrd.com/jobs/design-ux/product-design-lead-apply-digital-latam-remote</a></td>
+      <td>✨ Lead design teams to deliver high-quality UI/UX across multiple client projects, managing accounts and mentoring designers. Requires expertise in design systems, client communication, and strategic innovation.</td>
+    </tr>
+
+    <tr>
+      <td>34</td>
+      <td>Get on Board</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Full time</td>
+      <td>UX Lead</td>
+      <td>Remote/LATAM or Argentina eligible</td>
+      <td>devops</td>
+      <td><a href="https://www.getonbrd.com/jobs/design-ux/ux-lead-factor-it-antioquia">https://www.getonbrd.com/jobs/design-ux/ux-lead-factor-it-antioquia</a></td>
+      <td>✨ Posición para diseñar y mejorar experiencias digitales centradas en el usuario, con más de 2 años en UX, interacción directa con usuarios y colaboración multidisciplinaria. Requiere habilidades en investigación, prototipado y herramientas de diseño.</td>
+    </tr>
+
+    <tr>
+      <td>35</td>
+      <td>Get on Board</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Full time</td>
+      <td>Android Tech Lead for Major UK Operator</td>
+      <td>Remote/LATAM or Argentina eligible</td>
+      <td>devops</td>
+      <td><a href="https://www.getonbrd.com/empleos/desarrollo-mobile/senior-ios-android-developer-for-major-video-streaming-app-merapar-santiago-727e">https://www.getonbrd.com/empleos/desarrollo-mobile/senior-ios-android-developer-for-major-video-streaming-app-merapar-santiago-727e</a></td>
+      <td>✨ Lead Android Developer role requiring 5+ years experience, Kotlin-first development with Jetpack Compose, strong SOLID principles, CI/CD, testing, and Agile practices. Must lead a small team and deliver scalable mobile apps.</td>
+    </tr>
+
+    <tr>
+      <td>36</td>
+      <td>LinkedIn</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Apply Digital</td>
+      <td>Sr Project Manager</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/sr-project-manager-at-apply-digital-4422659833">https://ar.linkedin.com/jobs/view/sr-project-manager-at-apply-digital-4422659833</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>37</td>
+      <td>LinkedIn</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Credencial Payments</td>
+      <td>Jefe de Infraestructura IT</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/jefe-de-infraestructura-it-at-credencial-payments-4398859829">https://ar.linkedin.com/jobs/view/jefe-de-infraestructura-it-at-credencial-payments-4398859829</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>38</td>
+      <td>LinkedIn</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Cushman &amp; Wakefield</td>
+      <td>Senior Project Manager</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/senior-project-manager-at-cushman-wakefield-4415057834">https://ar.linkedin.com/jobs/view/senior-project-manager-at-cushman-wakefield-4415057834</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>39</td>
+      <td>LinkedIn</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Dabrein Solutions</td>
+      <td>Jefe de Infraestructura – Hibrido – Exc Oport,</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/jefe-de-infraestructura-%E2%80%93-hibrido-%E2%80%93-exc-oport-at-dabrein-solutions-4401082427">https://ar.linkedin.com/jobs/view/jefe-de-infraestructura-%E2%80%93-hibrido-%E2%80%93-exc-oport-at-dabrein-solutions-4401082427</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>40</td>
+      <td>LinkedIn</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>DREAMCO</td>
+      <td>Gerente de Sistemas</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/gerente-de-sistemas-at-dreamco-4426939470">https://ar.linkedin.com/jobs/view/gerente-de-sistemas-at-dreamco-4426939470</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>41</td>
+      <td>LinkedIn</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Huzzle.com</td>
+      <td>Technical Project Manager</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/technical-project-manager-at-huzzle-com-4420278475">https://ar.linkedin.com/jobs/view/technical-project-manager-at-huzzle-com-4420278475</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>42</td>
+      <td>LinkedIn</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Huzzle.com</td>
+      <td>Technical Project Manager</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/technical-project-manager-at-huzzle-com-4405617637">https://ar.linkedin.com/jobs/view/technical-project-manager-at-huzzle-com-4405617637</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>43</td>
+      <td>LinkedIn</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Mastercard</td>
+      <td>Junior Technical Project Manager</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/junior-technical-project-manager-at-mastercard-4374886043">https://ar.linkedin.com/jobs/view/junior-technical-project-manager-at-mastercard-4374886043</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>44</td>
+      <td>LinkedIn</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Medifé</td>
+      <td>Senior Project Manager</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/senior-project-manager-at-medif%C3%A9-4402823725">https://ar.linkedin.com/jobs/view/senior-project-manager-at-medif%C3%A9-4402823725</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>45</td>
+      <td>LinkedIn</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Medifé</td>
+      <td>Cloud &amp; Infrastructure Lead</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/cloud-infrastructure-lead-at-medif%C3%A9-4399994608">https://ar.linkedin.com/jobs/view/cloud-infrastructure-lead-at-medif%C3%A9-4399994608</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>46</td>
+      <td>LinkedIn</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>PwC Argentina</td>
+      <td>Senior - Project Manager</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/senior-project-manager-at-pwc-argentina-4416630862">https://ar.linkedin.com/jobs/view/senior-project-manager-at-pwc-argentina-4416630862</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>47</td>
+      <td>LinkedIn</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Randstad Digital</td>
+      <td>IT Manager</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/it-manager-at-randstad-digital-4416845502">https://ar.linkedin.com/jobs/view/it-manager-at-randstad-digital-4416845502</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>48</td>
+      <td>LinkedIn</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>SunnyData</td>
+      <td>Technical Project Manager</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/technical-project-manager-at-sunnydata-4410220756">https://ar.linkedin.com/jobs/view/technical-project-manager-at-sunnydata-4410220756</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>49</td>
+      <td>LinkedIn</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Tecla</td>
+      <td>IT Project Manager (Workspace)</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/it-project-manager-workspace-at-tecla-4428158524">https://ar.linkedin.com/jobs/view/it-project-manager-workspace-at-tecla-4428158524</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>50</td>
+      <td>LinkedIn</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>ZS</td>
+      <td>Senior Project Manager - PMO</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/senior-project-manager-pmo-at-zs-4351136974">https://ar.linkedin.com/jobs/view/senior-project-manager-pmo-at-zs-4351136974</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>51</td>
+      <td>Pipeline</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Elastic</td>
+      <td>Principal Product Manager Infrastructure, Observability</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://jobs.elastic.co/jobs?gh_jid=7992591&amp;gh_jid=7992591">https://jobs.elastic.co/jobs?gh_jid=7992591&amp;gh_jid=7992591</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>52</td>
+      <td>Remotive</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Mitre Media</td>
+      <td>Tech Lead Full-Stack Rails Engineer</td>
+      <td>USA, Canada, USA timezones</td>
+      <td>devops</td>
+      <td><a href="https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746">https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746</a></td>
+      <td>About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and vi</td>
+    </tr>
+
+    <tr>
+      <td>53</td>
+      <td>ATS directo</td>
+      <td>Cloud/DevOps</td>
+      <td>Canonical</td>
+      <td>Cloud Solutions Architect - Alliances</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/canonical/jobs/5915936">https://job-boards.greenhouse.io/canonical/jobs/5915936</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>54</td>
+      <td>ATS directo</td>
+      <td>Cloud/DevOps</td>
+      <td>Caylent</td>
+      <td>Director of Cloud Native Applications</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/caylent/jobs/5571578004">https://job-boards.greenhouse.io/caylent/jobs/5571578004</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>55</td>
+      <td>ATS directo</td>
+      <td>Cloud/DevOps</td>
+      <td>Caylent</td>
+      <td>Principal Cloud Architect</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/caylent/jobs/5535509004">https://job-boards.greenhouse.io/caylent/jobs/5535509004</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>56</td>
+      <td>ATS directo</td>
+      <td>Cloud/DevOps</td>
+      <td>Caylent</td>
+      <td>Senior Cloud Architect - Not an Active Opening, Building Talent Pipeline</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/caylent/jobs/5133417004">https://job-boards.greenhouse.io/caylent/jobs/5133417004</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>57</td>
+      <td>ATS directo</td>
+      <td>Cloud/DevOps</td>
+      <td>Caylent</td>
+      <td>Director of Cloud Native Applications</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/caylent/jobs/5571570004">https://job-boards.greenhouse.io/caylent/jobs/5571570004</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>58</td>
+      <td>ATS directo</td>
+      <td>Cloud/DevOps</td>
+      <td>Caylent</td>
+      <td>Principal Cloud Architect</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/caylent/jobs/5535506004">https://job-boards.greenhouse.io/caylent/jobs/5535506004</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>59</td>
+      <td>ATS directo</td>
+      <td>Cloud/DevOps</td>
+      <td>Caylent</td>
+      <td>Senior Cloud Architect - Not an Active Opening, Building Talent Pipeline</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/caylent/jobs/4382456004">https://job-boards.greenhouse.io/caylent/jobs/4382456004</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>60</td>
+      <td>ATS directo</td>
+      <td>Cloud/DevOps</td>
+      <td>Caylent</td>
+      <td>Director of Cloud Native Applications</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/caylent/jobs/5525031004">https://job-boards.greenhouse.io/caylent/jobs/5525031004</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>61</td>
+      <td>ATS directo</td>
+      <td>Cloud/DevOps</td>
+      <td>Caylent</td>
+      <td>Principal Cloud Architect</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/caylent/jobs/5535505004">https://job-boards.greenhouse.io/caylent/jobs/5535505004</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>62</td>
+      <td>ATS directo</td>
+      <td>Cloud/DevOps</td>
+      <td>Caylent</td>
+      <td>Director of Cloud Native Applications</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/caylent/jobs/5571576004">https://job-boards.greenhouse.io/caylent/jobs/5571576004</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>63</td>
+      <td>ATS directo</td>
+      <td>Cloud/DevOps</td>
+      <td>Clara</td>
+      <td>DevOps AWS Cost Optimization Specialist (Especialista en Optimización de Costos de AWS) - Remote</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/clara/jobs/5035771007">https://job-boards.greenhouse.io/clara/jobs/5035771007</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>64</td>
+      <td>ATS directo</td>
+      <td>Cloud/DevOps</td>
+      <td>Cloudflare</td>
+      <td>Network Reliability Engineer</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://boards.greenhouse.io/cloudflare/jobs/7649981?gh_jid=7649981">https://boards.greenhouse.io/cloudflare/jobs/7649981?gh_jid=7649981</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>65</td>
+      <td>ATS directo</td>
+      <td>Cloud/DevOps</td>
+      <td>Cloudflare</td>
+      <td>Country Director, India</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://boards.greenhouse.io/cloudflare/jobs/7588061?gh_jid=7588061">https://boards.greenhouse.io/cloudflare/jobs/7588061?gh_jid=7588061</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>66</td>
+      <td>ATS directo</td>
+      <td>Cloud/DevOps</td>
+      <td>Cloudflare</td>
+      <td>Senior Solutions Engineer, Public Sector Federal</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://boards.greenhouse.io/cloudflare/jobs/7530475?gh_jid=7530475">https://boards.greenhouse.io/cloudflare/jobs/7530475?gh_jid=7530475</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>67</td>
+      <td>ATS directo</td>
+      <td>Cloud/DevOps</td>
+      <td>Cloudflare</td>
+      <td>Distributed Systems Engineer, Analytical Database Platform</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://boards.greenhouse.io/cloudflare/jobs/7462799?gh_jid=7462799">https://boards.greenhouse.io/cloudflare/jobs/7462799?gh_jid=7462799</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>68</td>
+      <td>ATS directo</td>
+      <td>Cloud/DevOps</td>
+      <td>Cloudflare</td>
+      <td>Distributed Systems Engineer - Data Platform - Analytics and Alerts</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://boards.greenhouse.io/cloudflare/jobs/7462803?gh_jid=7462803">https://boards.greenhouse.io/cloudflare/jobs/7462803?gh_jid=7462803</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>69</td>
+      <td>ATS directo</td>
+      <td>Cloud/DevOps</td>
+      <td>Cloudflare</td>
+      <td>Distributed Systems Engineer - Data Platform (Delivery, Database, Retrieval)</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://boards.greenhouse.io/cloudflare/jobs/7462801?gh_jid=7462801">https://boards.greenhouse.io/cloudflare/jobs/7462801?gh_jid=7462801</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>70</td>
+      <td>ATS directo</td>
+      <td>Cloud/DevOps</td>
+      <td>Cloudflare</td>
+      <td>Distributed Systems Engineer - Data Platform - Logs and Audit Logs</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://boards.greenhouse.io/cloudflare/jobs/7462802?gh_jid=7462802">https://boards.greenhouse.io/cloudflare/jobs/7462802?gh_jid=7462802</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>71</td>
+      <td>ATS directo</td>
+      <td>Cloud/DevOps</td>
+      <td>dLocal</td>
+      <td>Cloud Architect</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://jobs.lever.co/dlocal/1244cc72-c553-40ce-ac1a-afc2a5bb4dc3">https://jobs.lever.co/dlocal/1244cc72-c553-40ce-ac1a-afc2a5bb4dc3</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>72</td>
+      <td>ATS directo</td>
+      <td>Cloud/DevOps</td>
+      <td>Inngest</td>
+      <td>Distributed Systems Engineer - Platform</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://jobs.ashbyhq.com/inngest/ae72d036-b98b-4abb-8454-a687870cf0ca">https://jobs.ashbyhq.com/inngest/ae72d036-b98b-4abb-8454-a687870cf0ca</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>73</td>
+      <td>ATS directo</td>
+      <td>Cloud/DevOps</td>
+      <td>Resend</td>
+      <td>Security Engineer, Platform</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://jobs.ashbyhq.com/resend/cde17f7c-4c70-435f-be38-ef5abe94ff22">https://jobs.ashbyhq.com/resend/cde17f7c-4c70-435f-be38-ef5abe94ff22</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>74</td>
+      <td>ATS directo</td>
+      <td>Cloud/DevOps</td>
+      <td>Supabase</td>
+      <td>Platform Engineer - Multicloud</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://jobs.ashbyhq.com/supabase/847a7bd7-6b75-444a-aeda-d0b28a11c764">https://jobs.ashbyhq.com/supabase/847a7bd7-6b75-444a-aeda-d0b28a11c764</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>75</td>
+      <td>ATS directo</td>
+      <td>Cloud/DevOps</td>
+      <td>Supabase</td>
+      <td>Software Engineer: IaC Platform Experience</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://jobs.ashbyhq.com/supabase/b7206c22-979f-444a-809b-e70d9ee23c7f">https://jobs.ashbyhq.com/supabase/b7206c22-979f-444a-809b-e70d9ee23c7f</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>76</td>
+      <td>ATS directo</td>
+      <td>Cloud/DevOps</td>
+      <td>Typeform</td>
+      <td>Senior Data Platform Engineer</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://job-boards.greenhouse.io/typeform/jobs/7850909">https://job-boards.greenhouse.io/typeform/jobs/7850909</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>77</td>
+      <td>Computrabajo</td>
+      <td>Cloud/DevOps</td>
+      <td>ADN Recursos Humanos</td>
+      <td>Analista DevOps Senior</td>
+      <td>Ver oferta</td>
+      <td>pipeline</td>
+      <td><a href="https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ref-20827-analista-devops-senior-hibrido-caba-centro-en-retiro-59EFAB116A99689D61373E686DCF3405">https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ref-20827-analista-devops-senior-hibrido-caba-centro-en-retiro-59EFAB116A99689D61373E686DCF3405</a></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td>78</td>
+      <td>Get on Board</td>
+      <td>Cloud/DevOps</td>
+      <td>Freelance</td>
+      <td>Data Scientist Senior – AWS / Sagemaker / Python / Neptune Freelance</td>
+      <td>Remote/LATAM or Argentina eligible</td>
+      <td>devops</td>
+      <td><a href="https://www.getonbrd.com/jobs/data-science-analytics/data-scientist-senior-aws-sagemaker-python-neptune-coyanservices-remote-9075">https://www.getonbrd.com/jobs/data-science-analytics/data-scientist-senior-aws-sagemaker-python-neptune-coyanservices-remote-9075</a></td>
+      <td>✨ Rol enfocado en diseñar, entrenar y desplegar modelos ML/AI en AWS, gestionando pipelines de datos y modelos, con fuerte base en estadística, Python y bases de datos de grafos.</td>
+    </tr>
+
+    <tr>
+      <td>79</td>
+      <td>Get on Board</td>
+      <td>Cloud/DevOps</td>
+      <td>Full time</td>
+      <td>Líder Técnico (Google Cloud)</td>
+      <td>Remote/LATAM or Argentina eligible</td>
+      <td>devops</td>
+      <td><a href="https://www.getonbrd.com/jobs/programming/lider-tecnico-google-cloud-tcit-santiago">https://www.getonbrd.com/jobs/programming/lider-tecnico-google-cloud-tcit-santiago</a></td>
+      <td>✨ Líder Técnico para proyecto de 6-12 meses en Google Cloud, con fuerte gestión de proyectos complejos, coordinación entre áreas técnicas y funcionales, y ownership técnico end-to-end.</td>
+    </tr>
+
+    <tr>
+      <td>80</td>
+      <td>Get on Board</td>
+      <td>Cloud/DevOps</td>
+      <td>Full time</td>
+      <td>Senior AWS Cloud Engineer</td>
+      <td>Remote/LATAM or Argentina eligible</td>
+      <td>devops</td>
+      <td><a href="https://www.getonbrd.com/jobs/sysadmin-devops-qa/senior-aws-cloud-engineer-merapar-santiago">https://www.getonbrd.com/jobs/sysadmin-devops-qa/senior-aws-cloud-engineer-merapar-santiago</a></td>
+      <td>✨ Experienced AWS Infrastructure Engineer with 8+ years in networking and cloud technologies, skilled in Python and Infrastructure as Code. Role requires designing AWS IaC solutions, managing CI/CD pipelines, and supporting cloud infrastructure in an Agile environment.</td>
+    </tr>
+    </tbody>
+  </table>
+</body>
+</html>

@@ -1,0 +1,148 @@
+# Ofertas remotas AR/UY/CL/BO - 2026-06-15
+
+Total candidatas: 400
+Nuevas no registradas: 352
+Ya conocidas/pipeline: 48
+
+## Nuevas
+
+- LinkedIn | ++hellohello | Sr. Project Manager | Montevideo, Uruguay | https://uy.linkedin.com/jobs/view/sr-project-manager-at-%2B%2Bhellohello-4425620617
+- LinkedIn | A Hiring Group | Rebate Program Project Manager | Argentina | https://ar.linkedin.com/jobs/view/rebate-program-project-manager-at-a-hiring-group-4414352248
+- LinkedIn | Accenture Argentina | Project Manager | Greater Buenos Aires | https://ar.linkedin.com/jobs/view/project-manager-at-accenture-argentina-4414793805
+- LinkedIn | ACL | Líder Técnico de Infraestructura TI | Santiago, Santiago Metropolitan Region, Chile | https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-de-infraestructura-ti-at-acl-4422732298
+- LinkedIn | Acsys | DevOps Engineer | Argentina | https://ar.linkedin.com/jobs/view/devops-engineer-at-acsys-4421986141
+- LinkedIn | AgileEngine | Application Security Engineer | Argentina | https://ar.linkedin.com/jobs/view/application-security-engineer-at-agileengine-4426151406
+- LinkedIn | AgileEngine | Senior Project Manager ID69238 | Mendoza, Mendoza, Argentina | https://ar.linkedin.com/jobs/view/senior-project-manager-id69238-at-agileengine-4426619528
+- LinkedIn | AgileEngine | Senior Project Manager ID69238 | San Carlos de Bariloche, Río Negro Province, Argentina | https://ar.linkedin.com/jobs/view/senior-project-manager-id69238-at-agileengine-4426613543
+- LinkedIn | AgileEngine | Senior Project Manager ID69238 | Rosario, Santa Fe, Argentina | https://ar.linkedin.com/jobs/view/senior-project-manager-id69238-at-agileengine-4426605820
+- LinkedIn | AgileEngine | Senior Project Manager ID69238 | Buenos Aires, Buenos Aires Province, Argentina | https://ar.linkedin.com/jobs/view/senior-project-manager-id69238-at-agileengine-4426626323
+- LinkedIn | AgileEngine | Senior Project Manager ID69238 | Cordoba, Córdoba, Argentina | https://ar.linkedin.com/jobs/view/senior-project-manager-id69238-at-agileengine-4426604788
+- LinkedIn | AgileEngine | Senior Project Manager ID69238 | Mar del Plata, Buenos Aires Province, Argentina | https://ar.linkedin.com/jobs/view/senior-project-manager-id69238-at-agileengine-4426617465
+- LinkedIn | AgileEngine | Senior Project Manager ID69238 | San Miguel de Tucumán, Tucumán, Argentina | https://ar.linkedin.com/jobs/view/senior-project-manager-id69238-at-agileengine-4426608581
+- LinkedIn | AgileEngine | Senior Project Manager ID69238 | Santiago del Estero, Santiago del Estero, Argentina | https://ar.linkedin.com/jobs/view/senior-project-manager-id69238-at-agileengine-4426611597
+- LinkedIn | AgilityIO | Platform Engineer / Solutions Architect | Argentina | https://ar.linkedin.com/jobs/view/platform-engineer-solutions-architect-at-agilityio-4421998525
+- LinkedIn | Akua | Cybersecurity Engineer | Uruguay | https://uy.linkedin.com/jobs/view/cybersecurity-engineer-at-akua-4426138345
+- LinkedIn | Amaris Consulting | DevOps Engineer | Santiago, Santiago Metropolitan Region, Chile | https://cl.linkedin.com/jobs/view/devops-engineer-at-amaris-consulting-4420130848
+- LinkedIn | Amazon Web Services (AWS) | Solutions Architect, AWS | Providencia, Santiago Metropolitan Region, Chile | https://cl.linkedin.com/jobs/view/solutions-architect-aws-at-amazon-web-services-aws-4422928348
+- LinkedIn | Amazon Web Services (AWS) | Solutions Architect, AWS | Providencia, Santiago Metropolitan Region, Chile | https://cl.linkedin.com/jobs/view/solutions-architect-aws-at-amazon-web-services-aws-4422387203
+- LinkedIn | Amazon Web Services (AWS) | Solutions Architect, AWS | Providencia, Santiago Metropolitan Region, Chile | https://cl.linkedin.com/jobs/view/solutions-architect-aws-at-amazon-web-services-aws-4398506711
+- LinkedIn | Apply Digital | Sr Project Manager | Chile | https://cl.linkedin.com/jobs/view/sr-project-manager-at-apply-digital-4422484890
+- LinkedIn | Apply Digital | Sr Project Manager | Santiago, Santiago Metropolitan Region, Chile | https://cl.linkedin.com/jobs/view/sr-project-manager-at-apply-digital-4422600811
+- LinkedIn | Aquabyte | DevOps Engineer | Puerto Varas, Los Lagos Region, Chile | https://cl.linkedin.com/jobs/view/devops-engineer-at-aquabyte-4339102783
+- LinkedIn | AspenView Technology Partners | Mid-Level Security Engineer | Argentina | https://ar.linkedin.com/jobs/view/mid-level-security-engineer-at-aspenview-technology-partners-4415981912
+- LinkedIn | ATCOM Chile | Jefe Infraestructura Vial y Ferroviario - Concepción | Concepcion, Biobío Region, Chile | https://cl.linkedin.com/jobs/view/jefe-infraestructura-vial-y-ferroviario-concepci%C3%B3n-at-atcom-chile-4304068539
+- LinkedIn | Athyna | Digital Project Manager | Argentina | https://ar.linkedin.com/jobs/view/digital-project-manager-at-athyna-4425529158
+- LinkedIn | Atomic - Remote Jobs | Senior Software Engineer — Storage Platform 🖥️⚙️ REMOTE | Santiago, Santiago Metropolitan Region, Chile | https://cl.linkedin.com/jobs/view/senior-software-engineer-%E2%80%94-storage-platform-%F0%9F%96%A5%EF%B8%8F%E2%9A%99%EF%B8%8F-remote-at-atomic-remote-jobs-4416341809
+- LinkedIn | Autofin Chile | Jefe de Infraestructura TI y DevOps | Santiago, Santiago Metropolitan Region, Chile | https://cl.linkedin.com/jobs/view/jefe-de-infraestructura-ti-y-devops-at-autofin-chile-4408546596
+- LinkedIn | Avature | Cloud Engineer | Argentina | https://ar.linkedin.com/jobs/view/cloud-engineer-at-avature-4412932996
+- LinkedIn | Avature | Cloud Networking Engineer | Argentina | https://ar.linkedin.com/jobs/view/cloud-networking-engineer-at-avature-4428651745
+- LinkedIn | Avature | Cloud Security Engineer | Argentina | https://ar.linkedin.com/jobs/view/cloud-security-engineer-at-avature-4428659673
+- LinkedIn | Avature | Platform Engineer, DBA | Argentina | https://ar.linkedin.com/jobs/view/platform-engineer-dba-at-avature-4422481852
+- LinkedIn | Avature | Security Specialist, Kubernetes | Argentina | https://ar.linkedin.com/jobs/view/security-specialist-kubernetes-at-avature-4412939648
+- LinkedIn | Avenga | Middle Advanced CloudOps Engineer | Cordoba, Córdoba, Argentina | https://ar.linkedin.com/jobs/view/middle-advanced-cloudops-engineer-at-avenga-4416354875
+- LinkedIn | Avenga | Senior Project Manager | Cordoba, Córdoba, Argentina | https://ar.linkedin.com/jobs/view/senior-project-manager-at-avenga-4428151602
+- LinkedIn | Avenue Code | Senior Site Reliability Engineer (SRE) | Argentina | https://ar.linkedin.com/jobs/view/senior-site-reliability-engineer-sre-at-avenue-code-4416733377
+- LinkedIn | AVOS Tech | Chile | ingeniero en Redes Cloud | Santiago, Santiago Metropolitan Region, Chile | https://cl.linkedin.com/jobs/view/ingeniero-en-redes-cloud-at-avos-tech-chile-4411907021
+- LinkedIn | Azumo | Cloud Devops Engineer - Latin America - Remote | Chajarí, Entre Ríos Province, Argentina | https://ar.linkedin.com/jobs/view/cloud-devops-engineer-latin-america-remote-at-azumo-4420464917
+- LinkedIn | Azumo | Cloud DevOps Engineer - Latin America - Remote | Greater Buenos Aires | https://ar.linkedin.com/jobs/view/cloud-devops-engineer-latin-america-remote-at-azumo-4389023920
+- LinkedIn | Azumo | Cloud DevOps Engineer - Latin America - Remote | Argentina | https://ar.linkedin.com/jobs/view/cloud-devops-engineer-latin-america-remote-at-azumo-4389024843
+- LinkedIn | Azumo | Project Manager - Latin America - Remote | Uruguay | https://uy.linkedin.com/jobs/view/project-manager-latin-america-remote-at-azumo-4368325217
+- LinkedIn | Backblaze | Sr. AI Security Engineer | Argentina | https://ar.linkedin.com/jobs/view/sr-ai-security-engineer-at-backblaze-4422221426
+- LinkedIn | BairesDev | AI Platform Engineer - Remote Work | REF#294683 | Chile | https://cl.linkedin.com/jobs/view/ai-platform-engineer-remote-work-ref%23294683-at-bairesdev-4426552504
+- LinkedIn | BairesDev | AI Platform Engineer - Remote Work | REF#294690 | Santiago Metropolitan Region, Chile | https://cl.linkedin.com/jobs/view/ai-platform-engineer-remote-work-ref%23294690-at-bairesdev-4426550532
+- LinkedIn | BairesDev | AI Platform Engineer - Remote Work | REF#294692 | Valparaiso Region, Chile | https://cl.linkedin.com/jobs/view/ai-platform-engineer-remote-work-ref%23294692-at-bairesdev-4426550536
+- LinkedIn | BairesDev | AWS Cloud Engineer - Remote Work | REF#290834 | Chile | https://cl.linkedin.com/jobs/view/aws-cloud-engineer-remote-work-ref%23290834-at-bairesdev-4420465496
+- LinkedIn | BairesDev | AWS Cloud Engineer - Remote Work | REF#290840 | Santiago Metropolitan Region, Chile | https://cl.linkedin.com/jobs/view/aws-cloud-engineer-remote-work-ref%23290840-at-bairesdev-4420468225
+- LinkedIn | BairesDev | AWS Cloud Engineer - Remote Work | REF#294533 | Valparaiso Region, Chile | https://cl.linkedin.com/jobs/view/aws-cloud-engineer-remote-work-ref%23294533-at-bairesdev-4426551489
+- LinkedIn | BairesDev | AWS Cloud Engineer (Senior) - Remote Work | REF#294517 | Chile | https://cl.linkedin.com/jobs/view/aws-cloud-engineer-senior-remote-work-ref%23294517-at-bairesdev-4426560380
+- LinkedIn | BairesDev | AWS Cloud Engineer (Senior) - Remote Work | REF#294521 | Santiago Metropolitan Region, Chile | https://cl.linkedin.com/jobs/view/aws-cloud-engineer-senior-remote-work-ref%23294521-at-bairesdev-4426544576
+- LinkedIn | BairesDev | Cyber Security Engineer - Remote Work | REF#290763 | Chile | https://cl.linkedin.com/jobs/view/cyber-security-engineer-remote-work-ref%23290763-at-bairesdev-4423240259
+- LinkedIn | BairesDev | Cyber Security Engineer - Remote Work | REF#290770 | Valparaiso Region, Chile | https://cl.linkedin.com/jobs/view/cyber-security-engineer-remote-work-ref%23290770-at-bairesdev-4423222457
+- LinkedIn | BairesDev | Data Platform Engineer - Remote Work | REF#247509 | Santiago, Santiago Metropolitan Region, Chile | https://cl.linkedin.com/jobs/view/data-platform-engineer-remote-work-ref%23247509-at-bairesdev-4258061483
+- LinkedIn | BairesDev | IFS Cloud Engineer - Remote Work | REF#290878 | Santiago Metropolitan Region, Chile | https://cl.linkedin.com/jobs/view/ifs-cloud-engineer-remote-work-ref%23290878-at-bairesdev-4420455817
+- LinkedIn | BairesDev | IFS Cloud Engineer - Remote Work | REF#294555 | Chile | https://cl.linkedin.com/jobs/view/ifs-cloud-engineer-remote-work-ref%23294555-at-bairesdev-4426548498
+- LinkedIn | BairesDev | Kubernetes Platform Engineer - Remote Work | REF#289462 | Chile | https://cl.linkedin.com/jobs/view/kubernetes-platform-engineer-remote-work-ref%23289462-at-bairesdev-4419456180
+- LinkedIn | BairesDev | Project Manager - Remote Work | Uruguay | https://uy.linkedin.com/jobs/view/project-manager-remote-work-at-bairesdev-4425831764
+- LinkedIn | BairesDev | Senior IFS Cloud Engineer - Remote Work | REF#290856 | Chile | https://cl.linkedin.com/jobs/view/senior-ifs-cloud-engineer-remote-work-ref%23290856-at-bairesdev-4420448974
+- LinkedIn | BairesDev | Senior IFS Cloud Engineer - Remote Work | REF#290866 | Valparaiso Region, Chile | https://cl.linkedin.com/jobs/view/senior-ifs-cloud-engineer-remote-work-ref%23290866-at-bairesdev-4423238303
+- LinkedIn | BairesDev | Senior Platform Engineer (DevOps / SRE) - Remote Work | REF#294589 | Santiago Metropolitan Region, Chile | https://cl.linkedin.com/jobs/view/senior-platform-engineer-devops-sre-remote-work-ref%23294589-at-bairesdev-4426560419
+- LinkedIn | BairesDev | Senior Product Owner - Remote Work | REF#284282 | Santiago, Santiago Metropolitan Region, Chile | https://cl.linkedin.com/jobs/view/senior-product-owner-remote-work-ref%23284282-at-bairesdev-4258067038
+- LinkedIn | BairesDev | Senior Project Manager - Remote Work | Argentina | https://ar.linkedin.com/jobs/view/senior-project-manager-remote-work-at-bairesdev-4425848632
+- LinkedIn | BairesDev | Senior Project Manager - Remote Work | Santiago Metropolitan Region, Chile | https://cl.linkedin.com/jobs/view/senior-project-manager-remote-work-at-bairesdev-4425834760
+- LinkedIn | BairesDev | Senior Project Manager - Remote Work | Bolivia | https://bo.linkedin.com/jobs/view/senior-project-manager-remote-work-at-bairesdev-4425837744
+- LinkedIn | BairesDev | Senior Project Manager - Remote Work | REF#280357 | Montevideo, Montevideo, Uruguay | https://uy.linkedin.com/jobs/view/senior-project-manager-remote-work-ref%23280357-at-bairesdev-4258059701
+- LinkedIn | BairesDev | Senior Project Manager - Remote Work | REF#284242 | Santiago, Santiago Metropolitan Region, Chile | https://cl.linkedin.com/jobs/view/senior-project-manager-remote-work-ref%23284242-at-bairesdev-4258067031
+- LinkedIn | Banco de Chile | Analista de Sistemas Sr. - Desarrollo Aplicación Back Office | Santiago, Santiago Metropolitan Region, Chile | https://cl.linkedin.com/jobs/view/analista-de-sistemas-sr-desarrollo-aplicaci%C3%B3n-back-office-at-banco-de-chile-4421374328
+- LinkedIn | Banco Unión S.A. | ON-160-2026 PRODUCT OWNER DE ANALÍTICA DE DATOS E IA | Totora, La Paz, Bolivia | https://bo.linkedin.com/jobs/view/on-160-2026-product-owner-de-anal%C3%ADtica-de-datos-e-ia-at-banco-uni%C3%B3n-s-a-4428357754
+- LinkedIn | BancoSol | ESPECIALISTA EN DESARROLLO Y OPERACIÓN DE PLATAFORMAS DEVOPS TI | Totora, La Paz, Bolivia | https://bo.linkedin.com/jobs/view/especialista-en-desarrollo-y-operaci%C3%B3n-de-plataformas-devops-ti-at-bancosol-4428350754
+- LinkedIn | BC Tecnología | Product Owner App Mobile | Uruguay | https://uy.linkedin.com/jobs/view/product-owner-app-mobile-at-bc-tecnolog%C3%ADa-4409704692
+- LinkedIn | Blend | DevOps Engineer | Buenos Aires, Buenos Aires Province, Argentina | https://ar.linkedin.com/jobs/view/devops-engineer-at-blend-4418142969
+- LinkedIn | Bluelight | DevOps Engineer - Remote, Latin America | Montevideo, Montevideo, Uruguay | https://uy.linkedin.com/jobs/view/devops-engineer-remote-latin-america-at-bluelight-4428656791
+- LinkedIn | Bluelight | DevOps Engineer - Remote, Latin America | Punta del Este, Maldonado, Uruguay | https://uy.linkedin.com/jobs/view/devops-engineer-remote-latin-america-at-bluelight-4428652760
+- LinkedIn | Bluelight | DevOps Engineer - Remote, Latin America | Salto, Salto, Uruguay | https://uy.linkedin.com/jobs/view/devops-engineer-remote-latin-america-at-bluelight-4428655838
+- LinkedIn | Bluelight | DevOps Engineer - Remote, Latin America | Antofagasta, Antofagasta Region, Chile | https://cl.linkedin.com/jobs/view/devops-engineer-remote-latin-america-at-bluelight-4428642919
+- LinkedIn | Bluelight | DevOps Engineer - Remote, Latin America | Concepcion, Biobío Region, Chile | https://cl.linkedin.com/jobs/view/devops-engineer-remote-latin-america-at-bluelight-4428640919
+- LinkedIn | Bluelight | DevOps Engineer - Remote, Latin America | Santiago, Santiago Metropolitan Region, Chile | https://cl.linkedin.com/jobs/view/devops-engineer-remote-latin-america-at-bluelight-4428659731
+- LinkedIn | Bluelight | DevOps Engineer - Remote, Latin America | Valparaíso, Valparaiso Region, Chile | https://cl.linkedin.com/jobs/view/devops-engineer-remote-latin-america-at-bluelight-4428643903
+- LinkedIn | Bluelight | DevOps Engineer - Remote, Latin America | Santa Cruz, Bolivia | https://bo.linkedin.com/jobs/view/devops-engineer-remote-latin-america-at-bluelight-4428645826
+- LinkedIn | Bluelight | DevOps Engineer - Remote, Latin America | Totora, La Paz, Bolivia | https://bo.linkedin.com/jobs/view/devops-engineer-remote-latin-america-at-bluelight-4428652734
+
+## Ya en pipeline/historial
+
+- LinkedIn | Apply Digital | Sr Project Manager | Argentina | https://ar.linkedin.com/jobs/view/sr-project-manager-at-apply-digital-4422659833
+- LinkedIn | ElectroNeek | DevOps Engineer | Argentina | https://ar.linkedin.com/jobs/view/devops-engineer-at-electroneek-4416347576
+- LinkedIn | HRBaires | Middle DevOps Engineer | Argentina | https://ar.linkedin.com/jobs/view/middle-devops-engineer-at-hrbaires-4426672027
+- LinkedIn | Huzzle.com | Technical Project Manager | Argentina | https://ar.linkedin.com/jobs/view/technical-project-manager-at-huzzle-com-4420278475
+- LinkedIn | Huzzle.com | Technical Project Manager | Argentina | https://ar.linkedin.com/jobs/view/technical-project-manager-at-huzzle-com-4405617637
+- LinkedIn | Novatium - Consulting & Outsourcing | Analista de Infraestructura SR - CABA | Autonomous City of Buenos Aires, Buenos Aires Province, Argentina | https://ar.linkedin.com/jobs/view/analista-de-infraestructura-sr-caba-at-novatium-consulting-outsourcing-4427082779
+- LinkedIn | OneInfo Consulting | Coordinador de Infraestructura | Buenos Aires, Buenos Aires Province, Argentina | https://ar.linkedin.com/jobs/view/coordinador-de-infraestructura-at-oneinfo-consulting-4396771180
+- LinkedIn | SLC - Recursos Humanos | Infraestructura y Gestión de Proyectos IT | Vicente López, Buenos Aires Province, Argentina | https://ar.linkedin.com/jobs/view/infraestructura-y-gesti%C3%B3n-de-proyectos-it-at-slc-recursos-humanos-4417964384
+- LinkedIn | Vicuña | Especialista IT Infraestructura | San Juan, Argentina | https://ar.linkedin.com/jobs/view/especialista-it-infraestructura-at-vicu%C3%B1a-4417966947
+- Pipeline | Accenture Argentina | Cloud Administrators — LinkedIn requiere login — pegá el texto de la oferta | Existing | https://ar.linkedin.com/jobs/view/cloud-administrators-at-accenture-argentina-4328059546
+- Pipeline | Accenture Argentina | Infrastructure Consulting Cloud — LinkedIn requiere login — pegá el texto de la oferta | Existing | https://ar.linkedin.com/jobs/view/infrastructure-consulting-cloud-at-accenture-argentina-4328170267
+- Pipeline | Aledade | Senior Technical Program Manager (DevOps), Remote | Existing | https://jobs.lever.co/aledade/3854c9ab-3b00-460f-9b73-5ff50ecda8df
+- Pipeline | Alignable | Engineering Manager (US Remote) | Existing | https://jobs.lever.co/Alignable/b29041d7-3509-4817-beac-a2aef82e3b1f
+- Pipeline | Arize AI | DevOps Support Engineer (Argentina) — LinkedIn requiere login — pegá el texto de la oferta | Existing | https://ar.linkedin.com/jobs/view/devops-support-engineer-argentina-at-arize-ai-4401389865
+- Pipeline | BC Tecnología | Senior Cloud Platform Engineer (LATAM) | Existing | https://www.getonbrd.com/jobs/programming/senior-cloud-platform-engineer-latam-bc-tecnologia-remote
+- Pipeline | Canonical | Cloud Engineering Manager | Worldwide | https://job-boards.greenhouse.io/canonical/jobs/4676649
+- Pipeline | Canonical | Cloud Solutions Architect - Alliances | Worldwide | https://job-boards.greenhouse.io/canonical/jobs/5915936
+- Pipeline | Canonical | Observability Engineering Manager | Americas + EMEA | https://job-boards.greenhouse.io/canonical/jobs/5739500
+- Pipeline | Canonical | Software Engineering Manager - Container and Virtualisation Infrastructure | Americas + EMEA | https://job-boards.greenhouse.io/canonical/jobs/4086684
+- Pipeline | Clara | DevOps AWS Cost Optimization Specialist - Remote | Existing | https://job-boards.greenhouse.io/clara/jobs/5035771007
+- Pipeline | Clara | Product Lead - LATAM | Existing | https://job-boards.greenhouse.io/clara/jobs/5136291007
+- Pipeline | Clara | Product Lead (Líder de Producto) - LATAM | Existing | https://job-boards.greenhouse.io/clara/jobs/5142970007
+- Pipeline | Clara | Senior Product Manager – LATAM (Remote) | Existing | https://job-boards.greenhouse.io/clara/jobs/4721896007
+- Pipeline | Claro Argentina | Supervisor/a Product Owner Fintech — LinkedIn requiere login — pegá el texto de la oferta | Existing | https://ar.linkedin.com/jobs/view/supervisor-a-product-owner-fintech-at-claro-argentina-4415135360
+- Pipeline | CloudKite | DevOps Engineer (Contract, LATAM) | Existing | https://www.getonbrd.com/jobs/sysadmin-devops-qa/devops-engineer-contract-latam-cloudkite-remote
+- Pipeline | Cologix | Technical Program Manager - Service Delivery (Remote: USA) | Existing | https://jobs.lever.co/cologix/5df56e43-7c56-4a6a-92cb-a43a2ba99004
+- Pipeline | CVC Corp Argentina | Cloud Engineer — LinkedIn requiere login — pegá el texto de la oferta | Existing | https://ar.linkedin.com/jobs/view/cloud-engineer-at-cvc-corp-argentina-4416843424
+- Pipeline | GitLab | Site Reliability Engineer, Environment Automation | Remote, Canada + US | https://job-boards.greenhouse.io/gitlab/jobs/8504232002
+- Pipeline | GSB Solutions | DevSecOps Cloud Engineer | Existing | https://remotive.com/remote/jobs/devops/devsecops-cloud-engineer-4902750
+- Pipeline | Inngest | Distributed Systems Engineer - Platform | US/Remote | https://jobs.ashbyhq.com/inngest/ae72d036-b98b-4abb-8454-a687870cf0ca
+- Pipeline | Luxury Presence | Technical Lead Manager - LATAM (Remote) | Existing | https://jobs.lever.co/luxurypresence/bc170830-b83b-4f1b-8f07-012e9ef399ae
+- Pipeline | MetLife Argentina | Junior DevOps & Cloud Engineer — LinkedIn requiere login — pegá el texto de la oferta | Existing | https://ar.linkedin.com/jobs/view/junior-devops-cloud-engineer-at-metlife-argentina-4415716230
+- Pipeline | PerfectServe | Senior Platform Engineer - US Remote | Existing | https://job-boards.greenhouse.io/perfectserve/jobs/5868778004
+- Pipeline | Pontificia Universidad Católica Argentina | Analista de Redes — LinkedIn requiere login — pegá el texto de la oferta | Existing | https://ar.linkedin.com/jobs/view/analista-de-redes-para-direcci%C3%B3n-de-sistemas-at-pontificia-universidad-cat%C3%B3lica-argentina-santa-mar%C3%ADa-de-los-buenos-aires-%E2%80%8B-4413165783
+- Pipeline | Pontificia Universidad Católica Argentina | Analista en Tecnologías — LinkedIn requiere login — pegá el texto de la oferta | Existing | https://ar.linkedin.com/jobs/view/analista-en-tecnolog%C3%ADas-e-innovaci%C3%B3n-en-sistemas-bibliotecarios-at-pontificia-universidad-cat%C3%B3lica-argentina-santa-mar%C3%ADa-de-los-buenos-aires-%E2%80%8B-4409621666
+- Pipeline | Pragmatike | DevOps Engineer (Remote) — LinkedIn requiere login — pegá el texto de la oferta | Existing | https://ar.linkedin.com/jobs/view/devops-engineer-remote-at-pragmatike-4422692690
+- Pipeline | PwC Argentina | Senior - Project Manager — LinkedIn requiere login — pegá el texto de la oferta | Existing | https://ar.linkedin.com/jobs/view/senior-project-manager-at-pwc-argentina-4416630862
+- Pipeline | Quanata | Technical Program Manager II [Remote-US] | Existing | https://job-boards.greenhouse.io/quanata/jobs/5994939004
+- Pipeline | Resend | Security Engineer, Platform | Americas / Remote | https://jobs.ashbyhq.com/resend/cde17f7c-4c70-435f-be38-ef5abe94ff22
+- Pipeline | RunPod | Site Reliability Engineer | Remote, USA | https://job-boards.greenhouse.io/runpod/jobs/5229443008
+- Pipeline | Smart Working Solutions | Senior AWS DevOps Engineer (Remote) | Existing | https://jobs.lever.co/smart-working-solutions/0c3d8ad8-dc9e-48c1-a96f-9a8f4b8005ef
+- Pipeline | Supabase | Head of Observability | Remote | https://jobs.ashbyhq.com/supabase/3d788231-c984-4bf7-bd8f-ca242988db4f
+- Pipeline | Supabase | Platform Engineer - Multicloud | Remote | https://jobs.ashbyhq.com/supabase/847a7bd7-6b75-444a-aeda-d0b28a11c764
+- Pipeline | Supabase | Software Engineer: IaC Platform Experience | Remote | https://jobs.ashbyhq.com/supabase/b7206c22-979f-444a-809b-e70d9ee23c7f
+- Pipeline | The Athletic | Staff Technical Program Manager (Remote) | Existing | https://jobs.lever.co/theathletic/07dde37b-39e3-4786-993e-7499e7b8bd6e
+- Pipeline | Trivelta | Lead DevOps Engineer (Remote) | Existing | https://job-boards.greenhouse.io/trivelta/jobs/4014139009
+- Pipeline | Typeform | DevSecOps Engineer | Ireland/Netherlands/UK Remote | https://job-boards.greenhouse.io/typeform/jobs/7686285
+- Pipeline | Typeform | Senior Data Platform Engineer | Spain/Germany/Ireland/Netherlands/UK Remote | https://job-boards.greenhouse.io/typeform/jobs/7850909
+
+## Errores
+
+- LinkedIn Argentina Gerente de Sistemas start=10: HTTP 429
+- LinkedIn Argentina Jefe de Infraestructura start=0: HTTP 429
+- LinkedIn Uruguay Project Manager IT start=0: HTTP 429
+- LinkedIn Uruguay Project Manager IT start=10: HTTP 429
+- LinkedIn Uruguay Technical Project Manager start=20: HTTP 429
+- LinkedIn Uruguay Product Owner start=0: HTTP 429

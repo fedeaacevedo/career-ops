@@ -1,0 +1,579 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    table { border-collapse: collapse; font-family: Arial, sans-serif; font-size: 12px; }
+    th { background: #1f4e78; color: white; font-weight: bold; }
+    th, td { border: 1px solid #d0d7de; padding: 6px 8px; vertical-align: top; }
+  </style>
+</head>
+<body>
+  <table>
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Categoria</th>
+        <th>Empresa</th>
+        <th>Rol</th>
+        <th>Ubicacion</th>
+        <th>Publicado</th>
+        <th>Busqueda</th>
+        <th>URL</th>
+      </tr>
+    </thead>
+    <tbody>
+
+    <tr>
+      <td>1</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Credencial Payments</td>
+      <td>Jefe de Infraestructura IT</td>
+      <td>Buenos Aires, Buenos Aires Province, Argentina</td>
+      <td>2026-04-09</td>
+      <td>IT Manager</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/jefe-de-infraestructura-it-at-credencial-payments-4398859829">https://ar.linkedin.com/jobs/view/jefe-de-infraestructura-it-at-credencial-payments-4398859829</a></td>
+    </tr>
+
+    <tr>
+      <td>2</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Dabrein Solutions</td>
+      <td>Jefe de Infraestructura – Hibrido – Exc Oport,</td>
+      <td>Greater Buenos Aires</td>
+      <td>2026-04-13</td>
+      <td>IT Manager</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/jefe-de-infraestructura-%E2%80%93-hibrido-%E2%80%93-exc-oport-at-dabrein-solutions-4401082427">https://ar.linkedin.com/jobs/view/jefe-de-infraestructura-%E2%80%93-hibrido-%E2%80%93-exc-oport-at-dabrein-solutions-4401082427</a></td>
+    </tr>
+
+    <tr>
+      <td>3</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>DREAMCO</td>
+      <td>Gerente de Sistemas</td>
+      <td>Greater Buenos Aires</td>
+      <td>2026-06-12</td>
+      <td>IT Manager</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/gerente-de-sistemas-at-dreamco-4426939470">https://ar.linkedin.com/jobs/view/gerente-de-sistemas-at-dreamco-4426939470</a></td>
+    </tr>
+
+    <tr>
+      <td>4</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Medifé</td>
+      <td>Cloud &amp; Infrastructure Lead</td>
+      <td>Buenos Aires, Buenos Aires Province, Argentina</td>
+      <td>2026-04-15</td>
+      <td>Jefe de Infraestructura</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/cloud-infrastructure-lead-at-medif%C3%A9-4399994608">https://ar.linkedin.com/jobs/view/cloud-infrastructure-lead-at-medif%C3%A9-4399994608</a></td>
+    </tr>
+
+    <tr>
+      <td>5</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>OneInfo Consulting</td>
+      <td>Coordinador de Infraestructura</td>
+      <td>Buenos Aires, Buenos Aires Province, Argentina</td>
+      <td>2026-04-01</td>
+      <td>IT Manager</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/coordinador-de-infraestructura-at-oneinfo-consulting-4396771180">https://ar.linkedin.com/jobs/view/coordinador-de-infraestructura-at-oneinfo-consulting-4396771180</a></td>
+    </tr>
+
+    <tr>
+      <td>6</td>
+      <td>Gerencia/Liderazgo</td>
+      <td>Randstad Digital</td>
+      <td>IT Manager</td>
+      <td>Vicente López, Buenos Aires Province, Argentina</td>
+      <td>2026-05-26</td>
+      <td>IT Manager</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/it-manager-at-randstad-digital-4416845502">https://ar.linkedin.com/jobs/view/it-manager-at-randstad-digital-4416845502</a></td>
+    </tr>
+
+    <tr>
+      <td>7</td>
+      <td>Cloud/DevOps</td>
+      <td>Accenture Argentina</td>
+      <td>DevOps</td>
+      <td>Greater Buenos Aires</td>
+      <td>2026-06-03</td>
+      <td>DevOps</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/devops-at-accenture-argentina-4330680557">https://ar.linkedin.com/jobs/view/devops-at-accenture-argentina-4330680557</a></td>
+    </tr>
+
+    <tr>
+      <td>8</td>
+      <td>Cloud/DevOps</td>
+      <td>Acclaim AI</td>
+      <td>Senior DevOps Engineer</td>
+      <td>Greater Buenos Aires</td>
+      <td>2026-05-15</td>
+      <td>Cloud Infrastructure Lead</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/senior-devops-engineer-at-acclaim-ai-4415025566">https://ar.linkedin.com/jobs/view/senior-devops-engineer-at-acclaim-ai-4415025566</a></td>
+    </tr>
+
+    <tr>
+      <td>9</td>
+      <td>Cloud/DevOps</td>
+      <td>Acsys</td>
+      <td>DevOps Engineer</td>
+      <td>Argentina</td>
+      <td>2026-06-08</td>
+      <td>DevOps</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/devops-engineer-at-acsys-4421986141">https://ar.linkedin.com/jobs/view/devops-engineer-at-acsys-4421986141</a></td>
+    </tr>
+
+    <tr>
+      <td>10</td>
+      <td>Cloud/DevOps</td>
+      <td>Ampstek</td>
+      <td>DevOps Engineer</td>
+      <td>Argentina</td>
+      <td>2026-05-19</td>
+      <td>Cloud Engineer</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/devops-engineer-at-ampstek-4415721455">https://ar.linkedin.com/jobs/view/devops-engineer-at-ampstek-4415721455</a></td>
+    </tr>
+
+    <tr>
+      <td>11</td>
+      <td>Cloud/DevOps</td>
+      <td>Arize AI</td>
+      <td>DevOps Support Engineer (Argentina)</td>
+      <td>Argentina</td>
+      <td>2026-04-13</td>
+      <td>DevOps</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/devops-support-engineer-argentina-at-arize-ai-4401389865">https://ar.linkedin.com/jobs/view/devops-support-engineer-argentina-at-arize-ai-4401389865</a></td>
+    </tr>
+
+    <tr>
+      <td>12</td>
+      <td>Cloud/DevOps</td>
+      <td>Avature</td>
+      <td>Cloud Engineer</td>
+      <td>Argentina</td>
+      <td>2026-06-10</td>
+      <td>Cloud Infrastructure Lead</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/cloud-engineer-at-avature-4412932996">https://ar.linkedin.com/jobs/view/cloud-engineer-at-avature-4412932996</a></td>
+    </tr>
+
+    <tr>
+      <td>13</td>
+      <td>Cloud/DevOps</td>
+      <td>Avenga</td>
+      <td>Senior DevOps Engineer</td>
+      <td>Argentina</td>
+      <td>2026-05-19</td>
+      <td>Cloud Infrastructure Lead</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/senior-devops-engineer-at-avenga-4413320618">https://ar.linkedin.com/jobs/view/senior-devops-engineer-at-avenga-4413320618</a></td>
+    </tr>
+
+    <tr>
+      <td>14</td>
+      <td>Cloud/DevOps</td>
+      <td>Azumo</td>
+      <td>Cloud DevOps Engineer - Latin America - Remote</td>
+      <td>Argentina</td>
+      <td>2026-02-26</td>
+      <td>DevOps</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/cloud-devops-engineer-latin-america-remote-at-azumo-4389024843">https://ar.linkedin.com/jobs/view/cloud-devops-engineer-latin-america-remote-at-azumo-4389024843</a></td>
+    </tr>
+
+    <tr>
+      <td>15</td>
+      <td>Cloud/DevOps</td>
+      <td>Azumo</td>
+      <td>Cloud DevOps Engineer - Latin America - Remote</td>
+      <td>Greater Buenos Aires</td>
+      <td>2026-02-26</td>
+      <td>Cloud Engineer</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/cloud-devops-engineer-latin-america-remote-at-azumo-4389023920">https://ar.linkedin.com/jobs/view/cloud-devops-engineer-latin-america-remote-at-azumo-4389023920</a></td>
+    </tr>
+
+    <tr>
+      <td>16</td>
+      <td>Cloud/DevOps</td>
+      <td>Banco Hipotecario</td>
+      <td>Analista DevOps / SRE Engineer Semi Senior</td>
+      <td>Greater Buenos Aires</td>
+      <td>2026-05-09</td>
+      <td>DevOps</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/analista-devops-sre-engineer-semi-senior-at-banco-hipotecario-4412499149">https://ar.linkedin.com/jobs/view/analista-devops-sre-engineer-semi-senior-at-banco-hipotecario-4412499149</a></td>
+    </tr>
+
+    <tr>
+      <td>17</td>
+      <td>Cloud/DevOps</td>
+      <td>Baufest</td>
+      <td>Cloud Engineer EKS</td>
+      <td>Argentina</td>
+      <td>2026-05-08</td>
+      <td>Cloud Infrastructure Lead</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/cloud-engineer-eks-at-baufest-4379927593">https://ar.linkedin.com/jobs/view/cloud-engineer-eks-at-baufest-4379927593</a></td>
+    </tr>
+
+    <tr>
+      <td>18</td>
+      <td>Cloud/DevOps</td>
+      <td>Baufest</td>
+      <td>Ingeniero DevOps</td>
+      <td>Argentina</td>
+      <td>2026-06-05</td>
+      <td>Cloud Engineer</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/ingeniero-devops-at-baufest-4424718411">https://ar.linkedin.com/jobs/view/ingeniero-devops-at-baufest-4424718411</a></td>
+    </tr>
+
+    <tr>
+      <td>19</td>
+      <td>Cloud/DevOps</td>
+      <td>BigCheese</td>
+      <td>AWS Cloud Engineer</td>
+      <td>Argentina</td>
+      <td>2026-06-05</td>
+      <td>Cloud Infrastructure Lead</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/aws-cloud-engineer-at-bigcheese-4424774476">https://ar.linkedin.com/jobs/view/aws-cloud-engineer-at-bigcheese-4424774476</a></td>
+    </tr>
+
+    <tr>
+      <td>20</td>
+      <td>Cloud/DevOps</td>
+      <td>Biwares</td>
+      <td>Ingeniero DevOps</td>
+      <td>Greater Buenos Aires</td>
+      <td>2026-05-26</td>
+      <td>DevOps</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/ingeniero-devops-at-biwares-4416835669">https://ar.linkedin.com/jobs/view/ingeniero-devops-at-biwares-4416835669</a></td>
+    </tr>
+
+    <tr>
+      <td>21</td>
+      <td>Cloud/DevOps</td>
+      <td>Blend</td>
+      <td>DevOps Engineer</td>
+      <td>Buenos Aires, Buenos Aires Province, Argentina</td>
+      <td>2026-05-26</td>
+      <td>Cloud Engineer</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/devops-engineer-at-blend-4418142969">https://ar.linkedin.com/jobs/view/devops-engineer-at-blend-4418142969</a></td>
+    </tr>
+
+    <tr>
+      <td>22</td>
+      <td>Cloud/DevOps</td>
+      <td>Bluelight</td>
+      <td>DevOps Engineer - Remote, Latin America</td>
+      <td>Mar del Plata, Buenos Aires Province, Argentina</td>
+      <td>2026-05-27</td>
+      <td>DevOps</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/devops-engineer-remote-latin-america-at-bluelight-4425403454">https://ar.linkedin.com/jobs/view/devops-engineer-remote-latin-america-at-bluelight-4425403454</a></td>
+    </tr>
+
+    <tr>
+      <td>23</td>
+      <td>Cloud/DevOps</td>
+      <td>Centro de e-Learning UTN FRBA</td>
+      <td>Cloud Platform Engineer (AWS / DevOps)</td>
+      <td>Buenos Aires, Buenos Aires Province, Argentina</td>
+      <td>2026-04-07</td>
+      <td>DevOps</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/cloud-platform-engineer-aws-devops-at-centro-de-e-learning-utn-frba-4398290268">https://ar.linkedin.com/jobs/view/cloud-platform-engineer-aws-devops-at-centro-de-e-learning-utn-frba-4398290268</a></td>
+    </tr>
+
+    <tr>
+      <td>24</td>
+      <td>Cloud/DevOps</td>
+      <td>Crombie</td>
+      <td>DevOps Engineer</td>
+      <td>Argentina</td>
+      <td>2026-05-20</td>
+      <td>Cloud Engineer</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/devops-engineer-at-crombie-4417305717">https://ar.linkedin.com/jobs/view/devops-engineer-at-crombie-4417305717</a></td>
+    </tr>
+
+    <tr>
+      <td>25</td>
+      <td>Cloud/DevOps</td>
+      <td>CVC Corp Argentina</td>
+      <td>Cloud Engineer</td>
+      <td>Greater Buenos Aires</td>
+      <td>2026-05-26</td>
+      <td>Cloud Engineer</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/cloud-engineer-at-cvc-corp-argentina-4416843424">https://ar.linkedin.com/jobs/view/cloud-engineer-at-cvc-corp-argentina-4416843424</a></td>
+    </tr>
+
+    <tr>
+      <td>26</td>
+      <td>Cloud/DevOps</td>
+      <td>Deel</td>
+      <td>DevOps Engineer</td>
+      <td>Argentina</td>
+      <td>2026-06-05</td>
+      <td>DevOps</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/devops-engineer-at-deel-4421156697">https://ar.linkedin.com/jobs/view/devops-engineer-at-deel-4421156697</a></td>
+    </tr>
+
+    <tr>
+      <td>27</td>
+      <td>Cloud/DevOps</td>
+      <td>Dev.Pro</td>
+      <td>Intermediate DevOps Engineer - OP02150</td>
+      <td>Greater Buenos Aires</td>
+      <td>2026-05-25</td>
+      <td>DevOps</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/intermediate-devops-engineer-op02150-at-dev-pro-4418958146">https://ar.linkedin.com/jobs/view/intermediate-devops-engineer-op02150-at-dev-pro-4418958146</a></td>
+    </tr>
+
+    <tr>
+      <td>28</td>
+      <td>Cloud/DevOps</td>
+      <td>Devsu</td>
+      <td>DevOps Engineer (GCP &amp; Kubernetes)</td>
+      <td>Argentina</td>
+      <td>2026-06-01</td>
+      <td>DevOps</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/devops-engineer-gcp-kubernetes-at-devsu-4418790946">https://ar.linkedin.com/jobs/view/devops-engineer-gcp-kubernetes-at-devsu-4418790946</a></td>
+    </tr>
+
+    <tr>
+      <td>29</td>
+      <td>Cloud/DevOps</td>
+      <td>ElectroNeek</td>
+      <td>DevOps Engineer</td>
+      <td>Argentina</td>
+      <td>2026-05-21</td>
+      <td>DevOps</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/devops-engineer-at-electroneek-4416347576">https://ar.linkedin.com/jobs/view/devops-engineer-at-electroneek-4416347576</a></td>
+    </tr>
+
+    <tr>
+      <td>30</td>
+      <td>Cloud/DevOps</td>
+      <td>EPAM Systems</td>
+      <td>Cloud Engineer</td>
+      <td>Argentina</td>
+      <td>2026-05-20</td>
+      <td>Cloud Engineer</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/cloud-engineer-at-epam-systems-4413627319">https://ar.linkedin.com/jobs/view/cloud-engineer-at-epam-systems-4413627319</a></td>
+    </tr>
+
+    <tr>
+      <td>31</td>
+      <td>Cloud/DevOps</td>
+      <td>EPAM Systems</td>
+      <td>Senior Cloud Engineer (AWS)</td>
+      <td>Argentina</td>
+      <td>2026-06-11</td>
+      <td>Cloud Engineer</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/senior-cloud-engineer-aws-at-epam-systems-4423653330">https://ar.linkedin.com/jobs/view/senior-cloud-engineer-aws-at-epam-systems-4423653330</a></td>
+    </tr>
+
+    <tr>
+      <td>32</td>
+      <td>Cloud/DevOps</td>
+      <td>EY</td>
+      <td>DevOps Principal Engineer - Tech Lead - EY Global Delivery Services</td>
+      <td>Buenos Aires, Buenos Aires Province, Argentina</td>
+      <td>2026-06-04</td>
+      <td>Cloud Infrastructure Lead</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/devops-principal-engineer-tech-lead-ey-global-delivery-services-at-ey-4396144983">https://ar.linkedin.com/jobs/view/devops-principal-engineer-tech-lead-ey-global-delivery-services-at-ey-4396144983</a></td>
+    </tr>
+
+    <tr>
+      <td>33</td>
+      <td>Cloud/DevOps</td>
+      <td>EY</td>
+      <td>EY - DevOps Engineer</td>
+      <td>Greater Buenos Aires</td>
+      <td>2026-05-29</td>
+      <td>DevOps</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/ey-devops-engineer-at-ey-4417969750">https://ar.linkedin.com/jobs/view/ey-devops-engineer-at-ey-4417969750</a></td>
+    </tr>
+
+    <tr>
+      <td>34</td>
+      <td>Cloud/DevOps</td>
+      <td>Freedx</td>
+      <td>Senior DevOps Engineer</td>
+      <td>Argentina</td>
+      <td>2026-06-03</td>
+      <td>DevOps</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/senior-devops-engineer-at-freedx-4423028883">https://ar.linkedin.com/jobs/view/senior-devops-engineer-at-freedx-4423028883</a></td>
+    </tr>
+
+    <tr>
+      <td>35</td>
+      <td>Cloud/DevOps</td>
+      <td>FullStack</td>
+      <td>Agentic AWS DevOps Engineer - Remote - Latin America</td>
+      <td>Salta, Salta, Argentina</td>
+      <td>2026-06-09</td>
+      <td>DevOps</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/agentic-aws-devops-engineer-remote-latin-america-at-fullstack-4407583790">https://ar.linkedin.com/jobs/view/agentic-aws-devops-engineer-remote-latin-america-at-fullstack-4407583790</a></td>
+    </tr>
+
+    <tr>
+      <td>36</td>
+      <td>Cloud/DevOps</td>
+      <td>Globant</td>
+      <td>Senior Cloud Engineer-AR</td>
+      <td>Greater Buenos Aires</td>
+      <td>2026-06-09</td>
+      <td>Cloud Engineer</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/senior-cloud-engineer-ar-at-globant-4425885497">https://ar.linkedin.com/jobs/view/senior-cloud-engineer-ar-at-globant-4425885497</a></td>
+    </tr>
+
+    <tr>
+      <td>37</td>
+      <td>Cloud/DevOps</td>
+      <td>Grid Dynamics</td>
+      <td>DevOps Engineer (Senior)</td>
+      <td>Greater Buenos Aires</td>
+      <td>2026-04-08</td>
+      <td>DevOps</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/devops-engineer-senior-at-grid-dynamics-4399443561">https://ar.linkedin.com/jobs/view/devops-engineer-senior-at-grid-dynamics-4399443561</a></td>
+    </tr>
+
+    <tr>
+      <td>38</td>
+      <td>Cloud/DevOps</td>
+      <td>HeyClue</td>
+      <td>Platform/DevOps Engineer</td>
+      <td>Argentina</td>
+      <td>2026-05-21</td>
+      <td>DevOps</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/platform-devops-engineer-at-heyclue-4417742793">https://ar.linkedin.com/jobs/view/platform-devops-engineer-at-heyclue-4417742793</a></td>
+    </tr>
+
+    <tr>
+      <td>39</td>
+      <td>Cloud/DevOps</td>
+      <td>Hire Feed</td>
+      <td>Cloud Engineer (Remote)</td>
+      <td>Argentina</td>
+      <td>2026-06-12</td>
+      <td>Cloud Engineer</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/cloud-engineer-remote-at-hire-feed-4427941994">https://ar.linkedin.com/jobs/view/cloud-engineer-remote-at-hire-feed-4427941994</a></td>
+    </tr>
+
+    <tr>
+      <td>40</td>
+      <td>Cloud/DevOps</td>
+      <td>HRBaires</td>
+      <td>Middle DevOps Engineer</td>
+      <td>Argentina</td>
+      <td>2026-06-11</td>
+      <td>DevOps</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/middle-devops-engineer-at-hrbaires-4426672027">https://ar.linkedin.com/jobs/view/middle-devops-engineer-at-hrbaires-4426672027</a></td>
+    </tr>
+
+    <tr>
+      <td>41</td>
+      <td>Cloud/DevOps</td>
+      <td>ITC Worldwide</td>
+      <td>Dynamics 365 CRM &amp; ERP + Jira IT Project Manager (Azure DevOps) PTE</td>
+      <td>Greater Buenos Aires</td>
+      <td>2026-05-15</td>
+      <td>IT Manager</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/dynamics-365-crm-erp-%2B-jira-it-project-manager-azure-devops-pte-at-itc-worldwide-4415083125">https://ar.linkedin.com/jobs/view/dynamics-365-crm-erp-%2B-jira-it-project-manager-azure-devops-pte-at-itc-worldwide-4415083125</a></td>
+    </tr>
+
+    <tr>
+      <td>42</td>
+      <td>Cloud/DevOps</td>
+      <td>JPMorganChase</td>
+      <td>AWS Cloud Engineer - Data</td>
+      <td>Greater Buenos Aires</td>
+      <td>2026-06-07</td>
+      <td>Cloud Infrastructure Lead</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/aws-cloud-engineer-data-at-jpmorganchase-4406839527">https://ar.linkedin.com/jobs/view/aws-cloud-engineer-data-at-jpmorganchase-4406839527</a></td>
+    </tr>
+
+    <tr>
+      <td>43</td>
+      <td>Cloud/DevOps</td>
+      <td>Kelsus, Inc.</td>
+      <td>Other positions (QA, SysAdmin, DevOps, Administrative, etc)</td>
+      <td>Argentina</td>
+      <td>2024-12-16</td>
+      <td>DevOps</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/other-positions-qa-sysadmin-devops-administrative-etc-at-kelsus-inc-4121559226">https://ar.linkedin.com/jobs/view/other-positions-qa-sysadmin-devops-administrative-etc-at-kelsus-inc-4121559226</a></td>
+    </tr>
+
+    <tr>
+      <td>44</td>
+      <td>Cloud/DevOps</td>
+      <td>KIU System Solutions</td>
+      <td>Devops Engineer</td>
+      <td>Buenos Aires, Buenos Aires Province, Argentina</td>
+      <td>2026-05-08</td>
+      <td>DevOps</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/devops-engineer-at-kiu-system-solutions-4411753994">https://ar.linkedin.com/jobs/view/devops-engineer-at-kiu-system-solutions-4411753994</a></td>
+    </tr>
+
+    <tr>
+      <td>45</td>
+      <td>Cloud/DevOps</td>
+      <td>Mandü HR</td>
+      <td>DevOps Engineer Jr.</td>
+      <td>Greater Buenos Aires</td>
+      <td>2026-05-20</td>
+      <td>DevOps</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/devops-engineer-jr-at-mand%C3%BC-hr-4416340232">https://ar.linkedin.com/jobs/view/devops-engineer-jr-at-mand%C3%BC-hr-4416340232</a></td>
+    </tr>
+
+    <tr>
+      <td>46</td>
+      <td>Cloud/DevOps</td>
+      <td>Medifé</td>
+      <td>Senior Cloud Engineer</td>
+      <td>Buenos Aires, Buenos Aires Province, Argentina</td>
+      <td>2026-06-09</td>
+      <td>DevOps</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/senior-cloud-engineer-at-medif%C3%A9-4422747819">https://ar.linkedin.com/jobs/view/senior-cloud-engineer-at-medif%C3%A9-4422747819</a></td>
+    </tr>
+
+    <tr>
+      <td>47</td>
+      <td>Cloud/DevOps</td>
+      <td>Miratech</td>
+      <td>Senior DevOps Engineer</td>
+      <td>Buenos Aires, Buenos Aires Province, Argentina</td>
+      <td>2026-05-01</td>
+      <td>DevOps</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/senior-devops-engineer-at-miratech-4407218893">https://ar.linkedin.com/jobs/view/senior-devops-engineer-at-miratech-4407218893</a></td>
+    </tr>
+
+    <tr>
+      <td>48</td>
+      <td>Cloud/DevOps</td>
+      <td>ON.energy</td>
+      <td>AWS Cloud Engineer</td>
+      <td>Argentina</td>
+      <td>2026-06-12</td>
+      <td>DevOps</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/aws-cloud-engineer-at-on-energy-4428140893">https://ar.linkedin.com/jobs/view/aws-cloud-engineer-at-on-energy-4428140893</a></td>
+    </tr>
+
+    <tr>
+      <td>49</td>
+      <td>Cloud/DevOps</td>
+      <td>ON.energy</td>
+      <td>Senior AWS Cloud Engineer</td>
+      <td>Argentina</td>
+      <td>2026-06-12</td>
+      <td>Cloud Infrastructure Lead</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/senior-aws-cloud-engineer-at-on-energy-4428151115">https://ar.linkedin.com/jobs/view/senior-aws-cloud-engineer-at-on-energy-4428151115</a></td>
+    </tr>
+
+    <tr>
+      <td>50</td>
+      <td>Cloud/DevOps</td>
+      <td>Onetree</td>
+      <td>DevOps</td>
+      <td>Argentina</td>
+      <td>2026-06-11</td>
+      <td>Cloud Infrastructure Lead</td>
+      <td><a href="https://ar.linkedin.com/jobs/view/devops-at-onetree-4427550928">https://ar.linkedin.com/jobs/view/devops-at-onetree-4427550928</a></td>
+    </tr>
+    </tbody>
+  </table>
+</body>
+</html>

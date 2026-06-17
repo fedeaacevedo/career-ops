@@ -1,0 +1,340 @@
+# Pipeline — Pending URLs
+
+## Pendientes
+
+- [x] #024 | https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-jefe-de-tecnologia-industria-petrolera-en-neuquen-30D0A952FE4CE99261373E686DCF3405 | DG Consultores | Jefe de Tecnología (Industria Petrolera) | 4.4/5 | PDF ✅
+- [x] #025 | https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ref-21118-lider-tecnico-cloud-aws-hibrido-caba-centro-en-recoleta-47E33EE329E3FD5C61373E686DCF3405 | ADN Recursos Humanos | Líder Técnico Cloud AWS | 4.2/5 | PDF ❌
+- [x] #026 | https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-lider-de-infraestructura-it-en-mar-del-plata-4E922743A8E625DC61373E686DCF3405 | Apertus | Líder de Infraestructura IT | 4.3/5 | PDF ✅
+- [!] https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-it-team-lead-importante-organizacion-en-cordoba-D2AC88CD978690B261373E686DCF3405 | Esentia Recursos Humanos | IT Team Lead | expired; Computrabajo redirected to Córdoba search/results page
+- [x] #027 | https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ref-21135-lider-tecnico-backend-java-microservicios-azure-remoto-2-vacantes-en-recoleta-11A1CF96659E5CCF61373E686DCF3405 | ADN Recursos Humanos | Líder Técnico Backend | 3.0/5 | PDF ❌
+- [x] #028 | https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-project-manager-it-en-cordoba-136DB542BD12AD2D61373E686DCF3405 | Fortia RH | Project Manager IT | 4.0/5 | PDF ❌
+- [x] #029 | https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-gerente-de-sistemas-en-rosario-64073523CD6062D961373E686DCF3405 | B&B Consultores | Gerente de Sistemas | 4.5/5 | PDF ✅
+- [x] #030 | https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-gerente-de-sistemas-en-san-salvador-de-jujuy-891EE5F9A50C8DB361373E686DCF3405 | Escencial Consultores | Gerente de Sistemas | 4.3/5 | PDF ❌
+- [x] #031 | https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-gerente-de-sistemas-sr-con-foco-en-negocios-hibrido-cordoba-en-cordoba-93A7E986EADB8AD261373E686DCF3405 | Frossasco Karina Viviana | Gerente de Sistemas Sr con foco en negocios | 4.6/5 | PDF ✅
+- [x] #032 | https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-lider-devops-aws-multinacional-de-software-financiero-hibrido-microcentro-caba-en-monserrat-4A977733B30A617361373E686DCF3405 | Kaizen Recursos Humanos | Líder DevOps AWS | 4.4/5 | PDF ❌
+- [x] #033 | https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-gerente-de-operaciones-coo-en-san-nicolas-8B9E3BE89E0291CA61373E686DCF3405 | Importante empresa del sector | Gerente de Operaciones IT (COO) | 4.1/5 | PDF ❌
+- [x] #034 | https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-head-of-product-and-platforms-en-cordoba-E6ACB853DAAE7BE661373E686DCF3405 | Evoltis | Head of Product and Platforms | 3.8/5 | PDF ❌
+- [x] https://job-boards.greenhouse.io/nubank/jobs/7658493 | Nubank | Senior Systems Engineer (Service Provisioning) | Argentina, Buenos Aires
+- [x] https://job-boards.greenhouse.io/clara/jobs/5044162007 | Clara | DevOps AWS Cost Optimization Specialist - Remote | Colombia
+- [x] https://job-boards.greenhouse.io/clara/jobs/5044167007 | Clara | DevOps AWS Cost Optimization Specialist - Remote | Brazil
+- [x] https://job-boards.greenhouse.io/cabify/jobs/8367951002 | Cabify | Senior Site Reliability Engineer | Madrid
+- [ ] https://jobs.lever.co/dlocal/1244cc72-c553-40ce-ac1a-afc2a5bb4dc3 | dLocal | Cloud Architect | Spain
+- [x] https://careers.datadoghq.com/detail/7776476/?gh_jid=7776476 | Datadog | Partner Solutions Architect (LATAM) | Chile + Brazil Remote
+- [x] https://job-boards.greenhouse.io/caylent/jobs/5793470004 | Caylent | Cloud Architect | Brazil
+- [x] https://job-boards.greenhouse.io/caylent/jobs/6010762004 | Caylent | Customer Solutions Architect | Brazil
+- [x] https://job-boards.greenhouse.io/nubank/jobs/7248894 | Nubank | Lead Systems Engineer | Mexico City
+- [x] https://job-boards.greenhouse.io/nubank/jobs/7572803 | Nubank | Systems Engineer - Computing Squad | Mexico City
+- [x] https://job-boards.greenhouse.io/vtex/jobs/5614482004 | VTEX | Senior Technical Product Manager, SRE/Cloud | Brazil
+- [x] https://jobs.lever.co/dlocal/c54bca0c-2493-4b14-acf6-5009b99e9faf | dLocal | Head of Platform Engineering | Brazil
+- [x] https://job-boards.greenhouse.io/caylent/jobs/5026984004 | Caylent | Senior Cloud Architect - Building Talent Pipeline | Mexico
+- [x] https://job-boards.greenhouse.io/canonical/jobs/3029798 | Canonical | Senior Site Reliability Engineer | Worldwide
+- [x] https://job-boards.greenhouse.io/canonical/jobs/5517891 | Canonical | Senior Site Reliability / Gitops Engineer | Worldwide
+- [x] https://job-boards.greenhouse.io/canonical/jobs/4468036 | Canonical | Site Reliability Engineer | Worldwide
+- [x] https://job-boards.greenhouse.io/canonical/jobs/1747487 | Canonical | Site Reliability / Gitops Engineer | Worldwide
+- [x] https://job-boards.greenhouse.io/canonical/jobs/6587365 | Canonical | IoT Solutions Architecture Manager (Americas only) | Americas
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/5739500 | Canonical | Observability Engineering Manager | Americas + EMEA
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/4676649 | Canonical | Cloud Engineering Manager | Worldwide
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/5915936 | Canonical | Cloud Solutions Architect - Alliances | Worldwide
+- [ ] https://jobs.ashbyhq.com/supabase/847a7bd7-6b75-444a-aeda-d0b28a11c764 | Supabase | Platform Engineer - Multicloud | Remote
+- [ ] https://jobs.ashbyhq.com/resend/cde17f7c-4c70-435f-be38-ef5abe94ff22 | Resend | Security Engineer, Platform | Americas / Remote
+- [x] #SKIP | https://jobs.ashbyhq.com/workos/cff5a16f-fd1c-4b64-9b66-8a8321122375 | WorkOS | Site Reliability Engineer | US & Canada only — geography SKIP
+- [x] #SKIP | https://jobs.ashbyhq.com/workos/26a54ffa-9465-4d13-bc5f-db41a2bbe505 | WorkOS | Infrastructure Engineer | US & Canada only — geography SKIP
+- [x] #SKIP | https://jobs.ashbyhq.com/workos/7757900a-02fb-40fd-b484-923bcffd91bf | WorkOS | Systems Engineer | US & Canada only — geography SKIP
+- [ ] https://jobs.ashbyhq.com/inngest/ae72d036-b98b-4abb-8454-a687870cf0ca | Inngest | Distributed Systems Engineer - Platform | US/Remote
+- [ ] https://job-boards.greenhouse.io/typeform/jobs/7686285 | Typeform | DevSecOps Engineer | Ireland/Netherlands/UK Remote
+- [ ] https://job-boards.greenhouse.io/typeform/jobs/7850909 | Typeform | Senior Data Platform Engineer | Spain/Germany/Ireland/Netherlands/UK Remote
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/5229443008 | RunPod | Site Reliability Engineer | Remote, USA
+- [ ] https://jobs.ashbyhq.com/supabase/b7206c22-979f-444a-809b-e70d9ee23c7f | Supabase | Software Engineer: IaC Platform Experience | Remote
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8504232002 | GitLab | Site Reliability Engineer, Environment Automation | Remote, Canada + US
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7649981?gh_jid=7649981 | Cloudflare | Network Reliability Engineer | Hybrid
+- [ ] https://jobs.ashbyhq.com/supabase/3d788231-c984-4bf7-bd8f-ca242988db4f | Supabase | Head of Observability | Remote
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/4086684 | Canonical | Software Engineering Manager - Container and Virtualisation Infrastructure | Americas + EMEA
+
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8485839002 | Airtable | Director, Technical Account Management
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5701765004 | Vercel | Engineering Manager, CDN
+- [x] #SKIP | https://job-boards.greenhouse.io/runpod/jobs/5221401008 | RunPod | Director, Revenue Operations — out of profile (Revenue Operations)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5999976004 | Hightouch | Engineering Manager, Customer Studio
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5835944004 | Hightouch | Engineering Manager, Destinations
+- [ ] https://coreweave.com/careers/job?4685542006&board=coreweave&gh_jid=4685542006 | CoreWeave | Regional Director - U.S. East Data Center Operations
+- [ ] https://coreweave.com/careers/job?4678827006&board=coreweave&gh_jid=4678827006 | CoreWeave | Regional Director, US South Central, Data Center Operations
+- [x] #SKIP | https://job-boards.greenhouse.io/gitlab/jobs/8521684002 | GitLab | Candidate Experience Specialist, Contractor — out of profile (recruiting/HR)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8510488002 | GitLab | Director, Enterprise Architecture & Intelligent Automation
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8537864002 | GitLab | Director of Engineering, Workflows & Runners
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8482744002 | GitLab | Engineering Manager, Continuous Delivery
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8463917002 | GitLab | Engineering Manager, Gitlab Delivery: Upgrades
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8339221002 | GitLab | Engineering Manager, Software Supply Chain Security: Pipeline Security
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8478405002 | GitLab | Engineering Manager, SSCS: Supply Chain
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8493679002 | GitLab | Field CTO, Public Sector
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8496880002 | GitLab | Field CTO - US West
+- [x] #SKIP | https://job-boards.greenhouse.io/gitlab/jobs/8561219002 | GitLab | Senior Director, Solution Architecture - North America — North America only, requires native/C1 English
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8525960002 | GitLab | Senior Solutions Architect
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8506618002 | GitLab | Staff Technical Program Manager
+- [ ] https://jobs.ashbyhq.com/render/a88f8400-b3c5-40b2-86a8-37c93044c287 | Render | Engineering Manager, Product
+- [ ] https://jobs.ashbyhq.com/render/9d421b1a-ef3e-4404-bc9f-9b41b53fcffb | Render | Engineering Manager, Expansion
+- [x] #SKIP | https://boards.greenhouse.io/cloudflare/jobs/7588061?gh_jid=7588061 | Cloudflare | Country Director, India — out of profile (country director/India)
+- [x] #SKIP | https://boards.greenhouse.io/cloudflare/jobs/7964653?gh_jid=7964653 | Cloudflare | Project Manager, Public Sector — US public sector, geo SKIP
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7530475?gh_jid=7530475 | Cloudflare | Senior Solutions Engineer, Public Sector Federal
+- [x] #SKIP | https://careers.datadoghq.com/detail/7852747/?gh_jid=7852747 | Datadog | Director, Compensation Programs — out of profile (HR/compensation)
+- [x] #SKIP | https://careers.datadoghq.com/detail/7821252/?gh_jid=7821252 | Datadog | Director, Head of Global Benefits — out of profile (HR/benefits)
+- [ ] https://careers.datadoghq.com/detail/7707345/?gh_jid=7707345 | Datadog | Director, Technical Support Engineering
+- [x] #SKIP | https://careers.datadoghq.com/detail/7514534/?gh_jid=7514534 | Datadog | Director, User Research - Product Design — out of profile (UX research)
+- [ ] https://careers.datadoghq.com/detail/7958663/?gh_jid=7958663 | Datadog | Engineering Manager I, Threat Detection
+- [x] #SKIP | https://careers.datadoghq.com/detail/7899179/?gh_jid=7899179 | Datadog | Senior Director, Creative — out of profile (creative/brand)
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/7410479 | Canonical | Cloud Field Engineering Manager
+- [x] #SKIP | https://job-boards.greenhouse.io/canonical/jobs/6366166 | Canonical | Dell Global Alliance Director — out of profile (vendor alliance sales)
+- [x] #SKIP | https://job-boards.greenhouse.io/canonical/jobs/6460571 | Canonical | Director, Talent Analytics — out of profile (HR analytics)
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/7646448 | Canonical | Engineering Director - Business Data
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/7646454 | Canonical | Engineering Director - Commercial Systems
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/5188002 | Canonical | Engineering Manager
+- [x] #SKIP | https://job-boards.greenhouse.io/canonical/jobs/6215502 | Canonical | Engineering Manager - AppArmor — niche security kernel, poor profile fit
+- [x] #SKIP | https://job-boards.greenhouse.io/canonical/jobs/5127399 | Canonical | Engineering Manager - App Stores — mobile/app store niche, poor fit
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/4175808 | Canonical | Engineering Manager - Ceph & Distributed Storage
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/3657756 | Canonical | Engineering Manager, Commercial Systems
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/5869156 | Canonical | Engineering Manager for IAM (Identity and Access Management)
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/4676823 | Canonical | Engineering Manager, Managed Services
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/4810491 | Canonical | Engineering Manager - MLOps & Analytics
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/4144793 | Canonical | Engineering Manager - Public Cloud, Python, Golang
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/3740499 | Canonical | Engineering Manager - Python and K8s
+- [x] #SKIP | https://job-boards.greenhouse.io/canonical/jobs/6215514 | Canonical | Engineering Manager - Security Standards and Hardening — niche security compliance, poor fit
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/3313558 | Canonical | Engineering Manager - Solutions Engineering
+- [x] #SKIP | https://job-boards.greenhouse.io/canonical/jobs/5612564 | Canonical | Engineering Manager - Ubuntu Core — embedded/IoT niche, poor fit
+- [x] #SKIP | https://job-boards.greenhouse.io/canonical/jobs/7732724 | Canonical | Engineering Manager - Ubuntu Desktop Apps — desktop apps niche, poor fit
+- [x] #SKIP | https://job-boards.greenhouse.io/canonical/jobs/4192903 | Canonical | Engineering Manager - Ubuntu Security — security niche, poor fit
+- [x] #SKIP | https://job-boards.greenhouse.io/canonical/jobs/4754075 | Canonical | Engineering Manager - Web — web eng niche, poor fit
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/5894889 | Canonical | GitOps Engineering Manager
+- [x] #SKIP | https://job-boards.greenhouse.io/canonical/jobs/5692058 | Canonical | Golang Engineering Manager, Commercial Systems — requires deep Golang expertise
+- [x] #SKIP | https://job-boards.greenhouse.io/canonical/jobs/6950222 | Canonical | IBM Global Alliance Director — out of profile (vendor alliance sales)
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/4676858 | Canonical | OpenStack Engineering Manager
+- [x] #SKIP | https://job-boards.greenhouse.io/canonical/jobs/5692059 | Canonical | Python Engineering Manager, Commercial Systems — requires deep Python expertise
+- [x] #SKIP | https://job-boards.greenhouse.io/canonical/jobs/7607786 | Canonical | Software Alliances Director, Americas — out of profile (alliances/partnerships)
+- [x] #SKIP | https://job-boards.greenhouse.io/canonical/jobs/6300377 | Canonical | Software Alliances Director, EMEA — out of profile (alliances/partnerships)
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/5211861 | Canonical | Software Engineering Director
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/4283003 | Canonical | Software Engineering Manager (Backend SaaS)
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/4410480 | Canonical | Software Engineering Manager - Sustaining Engineering
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/6854119 | Canonical | Support Engineering Manager
+- [x] #SKIP | https://job-boards.greenhouse.io/canonical/jobs/7778744 | Canonical | Telco Field Engineering Director — out of profile (telecom field sales/alliances)
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/7521220 | Canonical | Ubuntu Engineering Manager
+- [ ] https://job-boards.greenhouse.io/caylent/jobs/5985806004 | Caylent | AI/ML Engineering Manager
+- [ ] https://job-boards.greenhouse.io/caylent/jobs/6010596004 | Caylent | Customer Solutions Architect
+- [ ] https://job-boards.greenhouse.io/caylent/jobs/5826044004 | Caylent | Data Practice Director
+- [ ] https://job-boards.greenhouse.io/caylent/jobs/5571578004 | Caylent | Director of Cloud Native Applications
+- [ ] https://job-boards.greenhouse.io/caylent/jobs/5722444004 | Caylent | Engineering Manager
+- [x] #SKIP | https://job-boards.greenhouse.io/caylent/jobs/5722443004 | Caylent | Engineering Manager — duplicate of 5722444004
+- [ ] https://job-boards.greenhouse.io/caylent/jobs/4937606004 | Caylent | Engineering Manager - Data
+- [x] #SKIP | https://job-boards.greenhouse.io/caylent/jobs/4415217004 | Caylent | Engineering Manager - Data — duplicate of 4937606004
+- [ ] https://job-boards.greenhouse.io/caylent/jobs/5535509004 | Caylent | Principal Cloud Architect
+- [!] https://job-boards.greenhouse.io/caylent/jobs/5133417004 | Caylent | Senior Cloud Architect - Not an Active Opening, Building Talent Pipeline
+- [x] #SKIP | https://jobs.elastic.co/jobs?gh_jid=7968189&gh_jid=7968189 | Elastic | ABM Manager, Global Public Sector — out of profile (marketing/ABM)
+- [x] #SKIP | https://jobs.elastic.co/jobs?gh_jid=7885940&gh_jid=7885940 | Elastic | Global PR Director, US — out of profile (PR/communications)
+- [ ] https://jobs.elastic.co/jobs?gh_jid=7992591&gh_jid=7992591 | Elastic | Principal Product Manager Infrastructure, Observability
+- [x] #SKIP | https://jobs.elastic.co/jobs?gh_jid=7843340&gh_jid=7843340 | Elastic | Principal Software Engineer (Networking) - Platform — requires deep networking/C++ software eng
+- [x] #SKIP | https://jobs.elastic.co/jobs?gh_jid=7843348&gh_jid=7843348 | Elastic | Principal Software Engineer - Vector Search - Elasticsearch — requires deep search/ML software eng
+- [x] #SKIP | https://jobs.elastic.co/jobs?gh_jid=7721569&gh_jid=7721569 | Elastic | Senior Security Compliance Analyst - Public Sector — out of profile (compliance analyst)
+- [x] #SKIP | https://jobs.elastic.co/jobs?gh_jid=7573961&gh_jid=7573961 | Elastic | Senior Software Engineer - Vector Search - Elasticsearch — software engineer niche, poor fit
+- [ ] https://jobs.elastic.co/jobs?gh_jid=7747112&gh_jid=7747112 | Elastic | Senior Solutions Architect - SLED
+- [ ] https://jobs.elastic.co/jobs?gh_jid=7954418&gh_jid=7954418 | Elastic | Sr. Director, Field Technology and AI
+- [ ] https://job-boards.greenhouse.io/vtex/jobs/5889103004 | VTEX | Engineering Manager, Cloud Storage
+- [x] #SKIP | https://job-boards.greenhouse.io/nubank/jobs/7176546 | Nubank | Design Director — out of profile (design/creative)
+- [ ] https://job-boards.greenhouse.io/clara/jobs/5035771007 | Clara | DevOps AWS Cost Optimization Specialist - Remote
+- [x] #SKIP | https://job-boards.greenhouse.io/clara/jobs/5065094007 | Clara | Global Head of Legal & Regulatory — out of profile (legal)
+- [ ] https://job-boards.greenhouse.io/clara/jobs/5142970007 | Clara | Product Lead (Líder de Producto) - LATAM
+- [ ] https://job-boards.greenhouse.io/clara/jobs/4721896007 | Clara | Senior Product Manager – LATAM (Remote)
+- [ ] https://bitso.com/jobs/7582505003?gh_jid=7582505003 | Bitso | Senior Engineering Manager
+- [x] #SKIP | https://jobs.ashbyhq.com/belvo/d10ed20d-bcbb-4b2e-b8e4-29236f8c87fb | Belvo | New Products Strategy Director — out of profile (product strategy/commercial)
+- [x] #SKIP | https://jobs.ashbyhq.com/kueski/0e9ded17-510f-4fc8-b5e7-2b7ed904c92f | Kueski | Senior Director of Collections — out of profile (collections/finance ops)
+- [x] #SKIP | https://jobs.lever.co/dlocal/6835bf9d-69de-43bc-8c78-112f9fac4bf5 | dLocal | US Managing Director — out of profile (commercial/GM)
+
+- [x] #SKIP | https://job-boards.greenhouse.io/caylent/jobs/5985807004 | Caylent | AI/ML Engineering Manager — duplicate country variant (see 5985806004)
+- [x] #SKIP | https://job-boards.greenhouse.io/caylent/jobs/6010761004 | Caylent | Customer Solutions Architect — duplicate country variant (see 6010596004)
+- [x] #SKIP | https://job-boards.greenhouse.io/caylent/jobs/5825816004 | Caylent | Data Practice Director — duplicate country variant (see 5826044004)
+- [x] #SKIP | https://job-boards.greenhouse.io/caylent/jobs/5571570004 | Caylent | Director of Cloud Native Applications — duplicate country variant (see 5571578004)
+- [x] #SKIP | https://job-boards.greenhouse.io/caylent/jobs/5722445004 | Caylent | Engineering Manager — duplicate country variant (see 5722444004)
+- [x] #SKIP | https://job-boards.greenhouse.io/caylent/jobs/4937599004 | Caylent | Engineering Manager - Data — duplicate country variant (see 4937606004)
+- [x] #SKIP | https://job-boards.greenhouse.io/caylent/jobs/5535506004 | Caylent | Principal Cloud Architect — duplicate country variant (see 5535509004)
+- [!] https://job-boards.greenhouse.io/caylent/jobs/4382456004 | Caylent | Senior Cloud Architect - Not an Active Opening, Building Talent Pipeline
+- [x] #SKIP | https://job-boards.greenhouse.io/clara/jobs/5142952007 | Clara | Product Lead - LATAM — duplicate (see 5142970007)
+
+- [ ] https://jobs.ashbyhq.com/supabase/f2f28afa-4b42-43c7-b977-48f5b686fba2 | Supabase | Core Product Lead
+- [ ] https://careers.datadoghq.com/detail/7991343/?gh_jid=7991343 | Datadog | Product Operations Manager
+- [x] #SKIP | https://job-boards.greenhouse.io/caylent/jobs/5985808004 | Caylent | AI/ML Engineering Manager — duplicate country variant (see 5985806004)
+- [x] #SKIP | https://job-boards.greenhouse.io/caylent/jobs/5826066004 | Caylent | Data Practice Director — duplicate country variant (see 5826044004)
+- [x] #SKIP | https://job-boards.greenhouse.io/caylent/jobs/5525031004 | Caylent | Director of Cloud Native Applications — duplicate country variant (see 5571578004)
+- [x] #SKIP | https://job-boards.greenhouse.io/caylent/jobs/4415216004 | Caylent | Engineering Manager - Data — duplicate country variant (see 4937606004)
+- [x] #SKIP | https://job-boards.greenhouse.io/caylent/jobs/5535505004 | Caylent | Principal Cloud Architect — duplicate country variant (see 5535509004)
+- [ ] https://job-boards.greenhouse.io/nubank/jobs/7158412 | Nubank | Product Operations Manager III
+- [x] #SKIP | https://job-boards.greenhouse.io/clara/jobs/5135800007 | Clara | Mobile Product Lead – LATAM — out of profile (mobile product)
+- [ ] https://job-boards.greenhouse.io/clara/jobs/5136255007 | Clara | Product Lead, Invoice Automation
+- [x] #SKIP | https://job-boards.greenhouse.io/clara/jobs/5142956007 | Clara | Product Lead - LATAM — duplicate (see 5142970007)
+- [ ] https://job-boards.greenhouse.io/clara/jobs/5153328007 | Clara | Product Lead - Risk
+
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6020299004 | Hightouch | Engineering Manager, Agents
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6020373004 | Hightouch | Engineering Manager, Customer Studios
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8551473002 | GitLab | Senior Solutions Architect
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8551474002 | GitLab | Solutions Architect
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7462799?gh_jid=7462799 | Cloudflare | Distributed Systems Engineer, Analytical Database Platform
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7462803?gh_jid=7462803 | Cloudflare | Distributed Systems Engineer - Data Platform - Analytics and Alerts
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7462801?gh_jid=7462801 | Cloudflare | Distributed Systems Engineer - Data Platform (Delivery, Database, Retrieval)
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7462802?gh_jid=7462802 | Cloudflare | Distributed Systems Engineer - Data Platform - Logs and Audit Logs
+- [x] #SKIP | https://jobs.elastic.co/jobs?gh_jid=8001435&gh_jid=8001435 | Elastic | Technical Instructor — out of profile (instructor/training)
+- [ ] https://careers.datadoghq.com/detail/7967871/?gh_jid=7967871 | Datadog | Partner Solutions Architect (Brazil)
+- [ ] https://careers.datadoghq.com/detail/7977644/?gh_jid=7977644 | Datadog | Partner Solutions Architect (Mexico)
+- [ ] https://careers.datadoghq.com/detail/7997198/?gh_jid=7997198 | Datadog | Partner Solutions Architect (Pan-EMEA GSI)
+- [ ] https://careers.datadoghq.com/detail/8001760/?gh_jid=8001760 | Datadog | Senior Software Engineer - Observability Visibility
+- [x] #SKIP | https://job-boards.greenhouse.io/caylent/jobs/5985809004 | Caylent | AI/ML Engineering Manager — duplicate country variant (see 5985806004)
+- [x] #SKIP | https://job-boards.greenhouse.io/caylent/jobs/5826045004 | Caylent | Data Practice Director — duplicate country variant (see 5826044004)
+- [x] #SKIP | https://job-boards.greenhouse.io/caylent/jobs/5571576004 | Caylent | Director of Cloud Native Applications — duplicate country variant (see 5571578004)
+- [ ] https://job-boards.greenhouse.io/stone/jobs/7766455003 | Stone | [Local Schemes] Software Engineering Manager I
+- [ ] https://job-boards.greenhouse.io/stone/jobs/7764765003 | Stone | [Tribo da Controladoria] Software Engineering Manager I
+- [ ] https://job-boards.greenhouse.io/clara/jobs/5136291007 | Clara | Product Lead - LATAM
+- [ ] https://jobs.ashbyhq.com/belvo/daf0758c-5ca4-4255-9ef4-79e7a03249c0 | Belvo | Senior Engineering Manager Payments
+
+- [x] https://jobs.ashbyhq.com/supabase/66bab062-b769-43cf-ac3c-a2630257624c | Supabase | Customer Solution Architect Team Lead (AMER) | Applied manually 2026-06-13
+- [x] https://job-boards.greenhouse.io/clara/jobs/5150834007 | Clara | Tech Lead — ClarOps (Líder Técnico de ClarOps) - Remote | Applied manually 2026-06-13
+- [x] https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-funcional-erp-en-cordoba-0E01025B6A456D9961373E686DCF3405 | Porta Hnos | Analista Funcional ERP | Applied manually 2026-06-13
+- [x] https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-e-infraestructura-en-sistemas-area-de-sistemas-en-don-torcuato-DA457EE9B5E3029961373E686DCF3405 | Epsa | Soporte e infraestructura en Sistemas | Applied manually 2026-06-13
+- [x] https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-funcional-en-monserrat-E41F60DEC8605C1661373E686DCF3405 | Itrio | Analista Funcional | Applied manually 2026-06-13
+
+- [ ] https://job-boards.greenhouse.io/caylent/jobs/5615167004 | Caylent | Project Manager
+- [ ] https://job-boards.greenhouse.io/caylent/jobs/6001312004 | Caylent | Senior Project Manager
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/3256589 | Canonical | Enterprise Project Manager
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/2808065 | Canonical | Project Manager - Ubuntu Embedded Systems
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/4732475 | Canonical | Public Cloud Project Manager
+- [ ] https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ref-20827-analista-devops-senior-hibrido-caba-centro-en-retiro-59EFAB116A99689D61373E686DCF3405 | ADN Recursos Humanos | Analista DevOps Senior
+- [ ] https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-funcional-de-aplicaciones-informaticas-area-salud-en-balvanera-14D4CBFD1262088861373E686DCF3405 | Infomedical | Soporte Funcional de Aplicaciones Informáticas
+- [ ] https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-it-e-infraestructura-en-belgrano-D276583B36EEA78061373E686DCF3405 | TMT | Soporte IT e Infraestructura
+- [!] https://ar.linkedin.com/jobs/view/devops-engineer-jr-at-mand%C3%BC-hr-4416340232 | Mandü HR | DevOps Engineer Jr. — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/other-positions-qa-sysadmin-devops-administrative-etc-at-kelsus-inc-4121559226 | Kelsus, Inc. | Other positions — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/middle-devops-engineer-at-hrbaires-4426672027 | HRBaires | Middle DevOps Engineer — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/devops-engineer-at-electroneek-4416347576 | ElectroNeek | DevOps Engineer — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/devops-engineer-at-kiu-system-solutions-4411753994 | KIU System Solutions | Devops Engineer — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/devops-engineer-remote-at-pragmatike-4422692690 | Pragmatike | DevOps Engineer (Remote) — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/intermediate-devops-engineer-op02150-at-dev-pro-4418958146 | Dev.Pro | Intermediate DevOps Engineer — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/devops-support-engineer-argentina-at-arize-ai-4401389865 | Arize AI | DevOps Support Engineer (Argentina) — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/devops-at-roko-labs-4395921121 | Roko Labs | DevOps — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/cloud-engineer-at-cvc-corp-argentina-4416843424 | CVC Corp Argentina | Cloud Engineer — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/aws-cloud-engineer-at-on-energy-4428140893 | ON.energy | AWS Cloud Engineer — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/senior-aws-cloud-engineer-at-on-energy-4428151115 | ON.energy | Senior AWS Cloud Engineer — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/junior-devops-cloud-engineer-at-metlife-argentina-4415716230 | MetLife Argentina | Junior DevOps & Cloud Engineer — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/junior-technical-project-manager-at-mastercard-4374886043 | Mastercard | Junior Technical Project Manager — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/senior-project-manager-at-medif%C3%A9-4402823725 | Medifé | Senior Project Manager — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/senior-project-manager-at-cushman-wakefield-4415057834 | Cushman & Wakefield | Senior Project Manager — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/it-project-manager-workspace-at-tecla-4428158524 | Tecla | IT Project Manager (Workspace) — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/senior-project-manager-at-pwc-argentina-4416630862 | PwC Argentina | Senior - Project Manager — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/technical-project-manager-at-huzzle-com-4420278475 | Huzzle.com | Technical Project Manager — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/sr-project-manager-at-apply-digital-4422659833 | Apply Digital | Sr Project Manager — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/technical-project-manager-at-huzzle-com-4405617637 | Huzzle.com | Technical Project Manager — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/technical-project-manager-at-sunnydata-4410220756 | SunnyData | Technical Project Manager — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/senior-project-manager-pmo-at-zs-4351136974 | ZS | Senior Project Manager - PMO — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/analista-funcional-facturaci%C3%B3n-cobranzas-at-telecentro-4419620571 | Telecentro | Analista Funcional - Facturación & Cobranzas — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/analista-funcional-crm-at-provincia-net-4408584825 | Provincia NET | Analista funcional CRM — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/analista-funcional-at-bidcom-4403671004 | Bidcom | Analista Funcional — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/analista-funcional-at-paladini-s-a-4396672435 | Paladini S.A. | Analista Funcional — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/analista-funcional-at-hanseatica-compa%C3%B1%C3%ADa-de-seguros-4422725346 | Hanseatica Compañía de Seguros | Analista Funcional — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/analista-funcional-administrativo-erp-at-calycon-s-a-4428347709 | CALYCON S.A. | Analista Funcional Administrativo (ERP) — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/analista-funcional-at-grupo-st-4421969287 | Grupo ST | Analista Funcional — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/analista-funcional-de-sistemas-at-la-an%C3%B3nima-4420431102 | La Anónima | Analista Funcional de Sistemas — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/analista-funcional-erp-at-porta-hnos-s-a-4413972451 | Porta Hnos. S.A. | Analista Funcional ERP — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/analista-de-sistemas-junior-part-time-at-grupo-taraborelli-4417233456 | Grupo Taraborelli | Analista de Sistemas Junior Part Time — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/analista-de-sistemas-erp-at-randstad-digital-4426355951 | Randstad Digital | Analista de sistemas - ERP — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/analista-de-redes-para-direcci%C3%B3n-de-sistemas-at-pontificia-universidad-cat%C3%B3lica-argentina-santa-mar%C3%ADa-de-los-buenos-aires-%E2%80%8B-4413165783 | Pontificia Universidad Católica Argentina | Analista de Redes — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/analista-funcional-it-at-aden-business-school-4427118875 | Aden Business School | Analista Funcional IT — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/analista-en-tecnolog%C3%ADas-e-innovaci%C3%B3n-en-sistemas-bibliotecarios-at-pontificia-universidad-cat%C3%B3lica-argentina-santa-mar%C3%ADa-de-los-buenos-aires-%E2%80%8B-4409621666 | Pontificia Universidad Católica Argentina | Analista en Tecnologías — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/soporte-it-ssr-at-oneinfo-consulting-4396772157 | OneInfo Consulting | Soporte IT SSR — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/soporte-it-semi-senior-at-am%C3%A9rica-virtual-4416467046 | América Virtual | Soporte IT Semi Senior — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/soporte-it-e-infraestructura-at-tmt-trade-marketing-technologies-4411290641 | TMT Trade Marketing Technologies | Soporte IT e Infraestructura — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/coordinador-de-infraestructura-at-oneinfo-consulting-4396771180 | OneInfo Consulting | Coordinador de Infraestructura — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/t%C3%A9cnico-de-infraestructura-it-manufactura-h%C3%ADbrido-munro-at-acciona-it-4427546485 | Acciona IT | Técnico de infraestructura IT — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/administrador-o-administradora-de-sistemas-rosario-at-joffrehr-4421977313 | JoffreHR | Administrador de Sistemas — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/especialista-it-infraestructura-at-vicu%C3%B1a-4417966947 | Vicuña | Especialista IT Infraestructura — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/especialista-en-soporte-t%C3%A9cnico-de-infraestructura-de-planta-rojas-bs-as-at-bayer-4424124271 | Bayer | Especialista en Soporte Técnico de Infraestructura — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/infrastructure-consulting-cloud-at-accenture-argentina-4328170267 | Accenture Argentina | Infrastructure Consulting Cloud — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/t%C3%A9cnico-de-infraestructura-at-jph-lions-4419857575 | JPH LIONS | Técnico de Infraestructura — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/ing-de-datos-e-infraestructura-at-slb-4423153268 | SLB | Ing. de Datos e Infraestructura — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/analista-de-infraestructura-sr-caba-at-novatium-consulting-outsourcing-4427082779 | Novatium | Analista de Infraestructura SR — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/jefe-de-infraestructura-%E2%80%93-hibrido-%E2%80%93-exc-oport-at-dabrein-solutions-4401082427 | Dabrein Solutions | Jefe de Infraestructura — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/cloud-administrators-at-accenture-argentina-4328059546 | Accenture Argentina | Cloud Administrators — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/analista-de-infraestructura-soporte-vip-at-empresa-confidencial-4419340886 | Empresa Confidencial | Analista de Infraestructura | Soporte VIP — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/infraestructura-y-gesti%C3%B3n-de-proyectos-it-at-slc-recursos-humanos-4417964384 | SLC - Recursos Humanos | Infraestructura y Gestión de Proyectos IT — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/product-owner-custodia-at-byma-bolsas-y-mercados-argentinos-s-a-4422221086 | BYMA | Product Owner - Custodia — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/product-owner-nuevos-negocios-buenos-aires-at-despegar-4409109113 | Despegar | Product Owner Nuevos Negocios — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/product-owner-at-darwin-ai-4377826381 | Darwin AI | Product Owner — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/product-owner-pagos-y-transferencias-at-artax-advisors-4426159102 | Artax Advisors | Product Owner (Pagos y Transferencias) — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/associate-product-owner-ii-product-growth-at-despegar-4397796589 | Despegar | Associate Product Owner II — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/product-owner-at-widergy-4420149191 | Widergy | Product Owner — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/supervisor-a-product-owner-fintech-at-claro-argentina-4415135360 | Claro Argentina | Supervisor/a Product Owner Fintech — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/product-owner-at-bidcom-4376914989 | Bidcom | Product Owner — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/associate-product-owner-ii-alojamientos-buenos-aires-at-despegar-4393929312 | Despegar | Associate Product Owner II Alojamientos — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/product-owner-at-yuno-4428300892 | Yuno | Product Owner — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/gerente-de-sistemas-at-dreamco-4426939470 | DREAMCO | Gerente de Sistemas — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/cloud-infrastructure-lead-at-medif%C3%A9-4399994608 | Medifé | Cloud & Infrastructure Lead — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/it-manager-at-randstad-digital-4416845502 | Randstad Digital | IT Manager — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/jefe-de-infraestructura-it-at-credencial-payments-4398859829 | Credencial Payments | Jefe de Infraestructura IT — LinkedIn requiere login — pegá el texto de la oferta
+
+- [x] #SKIP | https://job-boards.greenhouse.io/caylent/jobs/5591027004 | Caylent | Project Manager — duplicate country variant (see 5615167004)
+- [x] #SKIP | https://job-boards.greenhouse.io/caylent/jobs/6001313004 | Caylent | Senior Project Manager — duplicate country variant (see 6001312004)
+
+- [x] #SKIP | https://job-boards.greenhouse.io/caylent/jobs/5499981004 | Caylent | Project Manager — duplicate country variant (see 5615167004)
+- [x] #SKIP | https://job-boards.greenhouse.io/caylent/jobs/6001314004 | Caylent | Senior Project Manager — duplicate country variant (see 6001312004)
+
+- [ ] https://www.getonbrd.com/jobs/sysadmin-devops-qa/devops-engineer-contract-latam-cloudkite-remote | CloudKite | DevOps Engineer (Contract, LATAM)
+- [ ] https://www.getonbrd.com/jobs/programming/senior-cloud-platform-engineer-latam-bc-tecnologia-remote | BC Tecnología | Senior Cloud Platform Engineer (LATAM)
+- [ ] https://job-boards.greenhouse.io/armada/jobs/5126489008 | Armada | Staff Platform Engineer, Kubernetes
+- [ ] https://job-boards.greenhouse.io/postscript/jobs/8502683002 | Postscript | Senior DevOps Engineer
+- [ ] https://job-boards.greenhouse.io/perfectserve/jobs/5868778004 | PerfectServe | Senior Platform Engineer - US Remote
+- [ ] https://job-boards.greenhouse.io/engine/jobs/7695687003 | Engine | Senior Engineering Manager, Infrastructure-IAM
+- [ ] https://job-boards.greenhouse.io/pingidentity/jobs/8446908002 | Ping Identity | Staff Site Reliability Engineer
+- [ ] https://job-boards.greenhouse.io/calendly/jobs/8579321002 | Calendly | Senior Site Reliability Engineer
+- [ ] https://job-boards.greenhouse.io/dropbox/jobs/7961824 | Dropbox | Staff Site Reliability Engineer, Production Engineering
+- [ ] https://job-boards.greenhouse.io/3cloud/jobs/8579267002 | 3Cloud | Architect - DevOps
+- [ ] https://job-boards.greenhouse.io/quanata/jobs/5994939004 | Quanata | Technical Program Manager II [Remote-US]
+- [ ] https://job-boards.greenhouse.io/trase/jobs/5145668007 | Trase Systems | Staff DevSecOps Engineer
+- [ ] https://job-boards.greenhouse.io/trivelta/jobs/4014139009 | Trivelta | Lead DevOps Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/icapitalnetwork/jobs/8390699002 | iCapital | DevOps Engineer - Senior Vice President
+- [ ] https://remotive.com/remote/jobs/devops/devsecops-cloud-engineer-4902750 | GSB Solutions | DevSecOps Cloud Engineer
+- [ ] https://jobs.lever.co/luxurypresence/bc170830-b83b-4f1b-8f07-012e9ef399ae | Luxury Presence | Technical Lead Manager - LATAM (Remote)
+- [ ] https://jobs.lever.co/yuno/0bb7b2d1-d208-4cd0-b650-5b924b8e5c96 | Yuno | Engineering Manager - Data Platform
+- [ ] https://jobs.lever.co/Ubiminds/4a529588-8003-45d4-adc8-49d1d2d11b62 | Ubiminds | Technical Project Manager (Mid-Level)
+- [ ] https://jobs.lever.co/aledade/3854c9ab-3b00-460f-9b73-5ff50ecda8df | Aledade | Senior Technical Program Manager (DevOps), Remote
+- [ ] https://jobs.lever.co/theathletic/07dde37b-39e3-4786-993e-7499e7b8bd6e | The Athletic | Staff Technical Program Manager (Remote)
+- [ ] https://jobs.lever.co/smart-working-solutions/0c3d8ad8-dc9e-48c1-a96f-9a8f4b8005ef | Smart Working Solutions | Senior AWS DevOps Engineer (Remote)
+- [ ] https://jobs.lever.co/trueml/d8257748-df91-4ccf-87db-88b885e623f4 | TrueML | Sr. DevOps Engineer
+- [ ] https://jobs.lever.co/Alignable/b29041d7-3509-4817-beac-a2aef82e3b1f | Alignable | Engineering Manager (US Remote)
+- [ ] https://jobs.lever.co/cologix/5df56e43-7c56-4a6a-92cb-a43a2ba99004 | Cologix | Technical Program Manager - Service Delivery (Remote: USA)
+- [ ] https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-gerente-de-sistemas-cio-en-cipolletti-C1D98EFE2EE5358261373E686DCF3405 | Empresa en Cipolletti | Gerente de Sistemas - CIO
+- [ ] https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tech-lead-con-experiencia-en-retiro-b1fbe6b21b3c832561373e686dcf3405 | Company | Tech Lead
+- [ ] https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-project-manager-metodologias-agiles-cordoba-en-cordoba-2FA51180A84C22EE61373E686DCF3405 | In.Corporate | Project Manager - Metodologías Ágiles
+- [ ] https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-project-manager-corporativo-pecommerce-en-cordoba-74D715E5885FDD9061373E686DCF3405 | Company | Project Manager Corporativo p/ecommerce
+- [ ] https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-jefe-de-gestion-de-proyectos-en-cordoba-A01B6E7B5F430C6561373E686DCF3405 | Hospital Privado | Jefe de Gestión de Proyectos (PMO)
+- [ ] https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-jefe-de-proyecto-sap-cabaamba-en-san-nicolas-1BE01325A78A8AC761373E686DCF3405 | C&S informática | Jefe de Proyecto SAP (CABA/AMBA)
+- [ ] https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-consultor-sap-is-u-ccs-billing-senior-importante-empresa-de-tecnologia-en-san-nicolas-ec63eb896fbeab8e61373e686dcf3405 | Importante empresa de tecnología | Consultor SAP IS-U CCS Billing (Senior)
+- [ ] https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-consultor-sap-ficocpi-senior-importante-empresa-de-tecnologia-en-san-nicolas-253BFB8A532634B061373E686DCF3405 | Importante empresa de tecnología | Consultor SAP FICO/CPI (Senior)
+- [ ] https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-consultor-sap-fica-utilitiescpi-senior-importante-empresa-de-tecnologia-en-san-nicolas-8E975F609627EA6261373E686DCF3405 | Importante empresa de tecnología | Consultor SAP FICA (utilities)/CPI (Senior)
+- [ ] https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-consultor-sap-s4hana-pp-senior-en-san-nicolas-907D2D86938BBB4C61373E686DCF3405 | C&S informática | Consultor SAP S/4HANA PP Senior
+
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8589197002 | GitLab | Manager, Public Sector Solutions Architects
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8592663002 | GitLab | Senior Director, Deal Desk
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8589176002 | GitLab | Senior Solutions Architect, Financial Services
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7997706?gh_jid=7997706 | Cloudflare | Senior Engineering Manager, AI Gateway
+- [ ] https://job-boards.greenhouse.io/nubank/jobs/8007428 | Nubank | Security Engineering Manager (Cloud Security) - BR - 2026
+- [!] https://ar.linkedin.com/jobs/view/aws-cloud-engineer-remote-at-hire-feed-4428851182 | Hire Feed | AWS Cloud Engineer (Remote) — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/aws-cloud-engineer-remote-at-quik-hire-staffing-4428843930 | Quik Hire Staffing | AWS Cloud Engineer (Remote) — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/devops-engineer-remote-at-quik-hire-staffing-4428867016 | Quik Hire Staffing | DevOps Engineer (Remote) — LinkedIn requiere login — pegá el texto de la oferta
+- [x] #SKIP | https://ar.linkedin.com/jobs/view/project-manager-jr-remote-at-soution-4428883138 | Soution | Project Manager JR - Remote — junior/JR, fuera de seniority objetivo
+- [!] https://cl.linkedin.com/jobs/view/cloud-engineer-remote-at-hire-feed-4428849699 | Hire Feed | Cloud Engineer (Remote) — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/senior-technical-project-manager-remote-latin-america-at-fullstack-4418438193 | FullStack | Senior Technical Project Manager - Remote - Latin America — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://uy.linkedin.com/jobs/view/azure-devops-engineer-remote-latin-america-at-fullstack-4418044120 | FullStack | Azure DevOps Engineer - Remote - Latin America — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://cl.linkedin.com/jobs/view/cybersecurity-engineer-remote-at-hire-feed-4428839783 | Hire Feed | Cybersecurity Engineer (Remote) — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/principal-ai-security-engineer-latam-mexico-english-required-at-dacodes-4426502174 | DaCodes | Principal AI Security Engineer - LATAM & Mexico — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://cl.linkedin.com/jobs/view/aws-cloud-engineer-senior-remote-work-ref%23294517-at-bairesdev-4426560380 | BairesDev | AWS Cloud Engineer (Senior) - Remote Work — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://cl.linkedin.com/jobs/view/senior-platform-engineer-devops-sre-remote-work-ref%23294589-at-bairesdev-4426560419 | BairesDev | Senior Platform Engineer (DevOps / SRE) - Remote Work — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://uy.linkedin.com/jobs/view/senior-devops-engineer-remote-latin-america-at-fullstack-4423592152 | FullStack | Senior DevOps Engineer - Remote - Latin America — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/993-senior-product-manager-conversational-support-platforms-%C2%B7-remote-%C2%B7-latam-at-darwoft-4417526804 | Darwoft | Senior Product Manager - Remote LATAM — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/cloud-engineer-remote-at-quik-hire-staffing-4426796581 | Quik Hire Staffing | Cloud Engineer (Remote) — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://cl.linkedin.com/jobs/view/devops-engineer-remote-at-pragmatike-4422687758 | Pragmatike | DevOps Engineer (Remote) — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/senior-devops-engineer-%E2%80%93-remote-argentina-or-mexico-at-opensesame-4402214964 | OpenSesame | Senior DevOps Engineer - Remote Argentina or Mexico — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://uy.linkedin.com/jobs/view/agentic-azure-devops-engineer-remote-latin-america-at-fullstack-4407581834 | FullStack | Agentic Azure DevOps Engineer - Remote - Latin America — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://ar.linkedin.com/jobs/view/senior-project-manager-remote-work-at-bairesdev-4425848632 | BairesDev | Senior Project Manager - Remote Work — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://cl.linkedin.com/jobs/view/ai-platform-engineer-remote-work-ref%23294683-at-bairesdev-4426552504 | BairesDev | AI Platform Engineer - Remote Work — LinkedIn requiere login — pegá el texto de la oferta
+- [!] https://bo.linkedin.com/jobs/view/devops-remoto-exp-en-banca-k526-at-keppri-4412485215 | Keppri | DevOps Remoto - Banca — LinkedIn requiere login — pegá el texto de la oferta
+
+## Procesadas

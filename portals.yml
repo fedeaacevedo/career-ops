@@ -1,0 +1,696 @@
+location_filter:
+  always_allow:
+    - "Remote"
+    - "Worldwide"
+    - "Global"
+    - "LATAM"
+    - "Latin America"
+    - "Spain"
+    - "España"
+  allow:
+    # Priority: Spanish-speaking markets
+    - "Remote"
+    - "Worldwide"
+    - "Global"
+    - "LATAM"
+    - "Latin America"
+    - "South America"
+    - "Argentina"
+    - "Chile"
+    - "Uruguay"
+    - "Brazil"
+    - "Brasil"
+    - "Peru"
+    - "Colombia"
+    - "Mexico"
+    - "México"
+    - "Americas"
+    - "Spain"
+    - "España"
+    - "Madrid"
+    - "Barcelona"
+    - "Bilbao"
+    - "Valencia"
+    - "Sevilla"
+    # De-prioritized but not rejected
+    - "United States"
+    - "USA"
+    - "US"
+    - "Europe"
+    - "EMEA"
+    - "International"
+    - "Hybrid"
+    - "Australia"
+
+title_filter:
+  positive:
+    - "DevOps"
+    - "DevSecOps"
+    - "Cloud Engineer"
+    - "AWS Cloud Engineer"
+    - "AWS Engineer"
+    - "Site Reliability"
+    - "SRE"
+    - "Platform Engineer"
+    - "Infrastructure Engineer"
+    - "Infrastructure"
+    - "Infraestructura"
+    - "Systems Engineer"
+    - "Systems Administrator"
+    - "Cloud Operations"
+    - "Production Engineer"
+    - "Technical Project Manager"
+    - "Technical Program Manager"
+    - "IT Project Manager"
+    - "Project Manager"
+    - "Jefe de Proyecto"
+    - "Gerente de Proyecto"
+    - "PMO"
+    - "Scrum Master"
+    - "Product Owner"
+    - "Delivery Manager"
+    - "Technology Delivery Manager"
+    - "Technical Delivery Manager"
+    - "Product Lead"
+    - "Product Operations Manager"
+    - "Analista Funcional"
+    - "Analista de Sistemas"
+    - "Consultor Funcional"
+    - "Consultor SAP"
+    - "Implementador"
+    - "Implementación"
+    - "Implementacion"
+    - "Transformación Digital"
+    - "Transformacion Digital"
+    - "Operaciones IT"
+    - "Operaciones de Tecnología"
+    - "Operaciones de Tecnologia"
+    - "Soporte IT"
+    - "Soporte Técnico"
+    - "Soporte Tecnico"
+    - "Mesa de Ayuda"
+    - "Cloud Architect"
+    - "Solutions Architect"
+    - "Technical Lead"
+    - "Technical Team Leader"
+    - "Líder Técnico"
+    - "Lider Técnico"
+    - "Líder de Tecnología"
+    - "Lider de Tecnologia"
+    - "Líder de Infraestructura"
+    - "Lider de Infraestructura"
+    - "Líder de Sistemas"
+    - "Lider de Sistemas"
+    - "Jefe de Tecnología"
+    - "Jefe de Tecnologia"
+    - "Jefe de Sistemas"
+    - "Jefe de Infraestructura"
+    - "Gerente de Tecnología"
+    - "Gerente de Tecnologia"
+    - "Gerente de Sistemas"
+    - "Gerente de Infraestructura"
+    - "Responsable de Tecnología"
+    - "Responsable de Tecnologia"
+    - "Responsable de Sistemas"
+    - "Responsable de Infraestructura"
+    - "Coordinador IT"
+    - "Coordinador de Tecnología"
+    - "Coordinador de Tecnologia"
+    - "Team Lead"
+    - "IT Team Lead"
+    - "IT Manager"
+    - "Infrastructure Manager"
+    - "Technology Manager"
+    - "Information Technology Manager"
+    - "Engineering Manager"
+    - "Platform Engineering Manager"
+    - "Head of Infrastructure"
+    - "Head of Technology"
+    - "Head of Engineering"
+    - "Director of Technology"
+    - "Director of Engineering"
+    - "Infrastructure Director"
+    - "Cloud Practice Lead"
+    - "Cloud Delivery Manager"
+    - "Cloud Program Lead"
+    - "Infrastructure Program Lead"
+    - "Operations Technology Manager"
+    - "Infrastructure Operations Manager"
+    - "Service Delivery Manager"
+    - "Technology Operations Manager"
+    - "Systems Manager"
+    - "VP of Technology"
+    - "CTO"
+    - "Fractional CTO"
+    - "Reliability Engineer"
+    - "Platform"
+    - "Plataforma"
+    - "Linux"
+    - "Kubernetes"
+    - "Terraform"
+    - "Observability"
+  negative:
+    - "Sales"
+    - "Sales Manager"
+    - "Account Executive"
+    - "Account Manager"
+    - "Account Management"
+    - "Business Development"
+    - "Business Development Manager"
+    - "Recruiter"
+    - "Recruiting Manager"
+    - "Talent Acquisition"
+    - "Talent Manager"
+    - "HR Manager"
+    - "Human Resources"
+    - "People Manager"
+    - "People Operations"
+    - "Marketing"
+    - "Marketing Manager"
+    - "Product Marketing"
+    - "Brand Manager"
+    - "Customer Success"
+    - "Customer Success Manager"
+    - "Customer Support"
+    - "Revenue Operations"
+    - "RevOps"
+    - "Creative Director"
+    - "Design Manager"
+    - "Designer"
+    - "UX"
+    - "SEO"
+    - "Growth"
+    - "Community Manager"
+    - "Partnerships Manager"
+    - "Intern"
+    - "Internship"
+    - "Junior"
+    - "BDR"
+    - "SDR"
+  seniority_boost:
+    - "Senior"
+    - "Lead"
+    - "Principal"
+    - "Staff"
+    - "Head"
+    - "Manager"
+
+search_queries:
+  # === Ashby ===
+  - name: Ashby - DevOps SRE LATAM
+    query: 'site:jobs.ashbyhq.com "DevOps Engineer" OR "Site Reliability Engineer" OR "SRE" remote OR LATAM'
+    enabled: true
+  - name: Ashby - Cloud Platform LATAM
+    query: 'site:jobs.ashbyhq.com "Cloud Engineer" OR "Platform Engineer" OR "Infrastructure Engineer" remote OR LATAM'
+    enabled: true
+  - name: Ashby - Cloud Architect TPM
+    query: 'site:jobs.ashbyhq.com "Cloud Architect" OR "Solutions Architect" OR "Technical Project Manager" remote'
+    enabled: true
+  - name: Ashby - Leadership Management
+    query: 'site:jobs.ashbyhq.com "Engineering Manager" OR "Head of Technology" OR "Technical Program Manager" OR "Infrastructure Manager" remote OR LATAM'
+    enabled: true
+  - name: Ashby - Technical Delivery Product Ops
+    query: 'site:jobs.ashbyhq.com "Technical Project Manager" OR "Technical Program Manager" OR "Delivery Manager" OR "Product Lead" OR "Product Operations Manager" remote OR LATAM'
+    enabled: true
+  - name: Ashby - Spain LATAM
+    query: 'site:jobs.ashbyhq.com "DevOps" OR "Platform" OR "Infrastructure" OR "Cloud" Spain OR Argentina OR Mexico OR Colombia OR Chile OR remote'
+    enabled: true
+
+  # === Greenhouse ===
+  - name: Greenhouse - DevOps Platform
+    query: 'site:job-boards.greenhouse.io OR site:boards.greenhouse.io "DevOps Engineer" OR "Platform Engineer" OR "Infrastructure Engineer" remote'
+    enabled: true
+  - name: Greenhouse - SRE Cloud Operations
+    query: 'site:job-boards.greenhouse.io OR site:boards.greenhouse.io "Site Reliability Engineer" OR "Cloud Operations Engineer" OR "Production Engineer" remote'
+    enabled: true
+  - name: Greenhouse - Architect Lead
+    query: 'site:job-boards.greenhouse.io OR site:boards.greenhouse.io "Cloud Architect" OR "Solutions Architect" OR "Technical Lead" remote'
+    enabled: true
+  - name: Greenhouse - Technology Leadership
+    query: 'site:job-boards.greenhouse.io OR site:boards.greenhouse.io "IT Manager" OR "Technology Manager" OR "Head of Technology" OR "Director of Technology" OR CTO remote OR LATAM'
+    enabled: true
+  - name: Greenhouse - Engineering Platform Managers
+    query: 'site:job-boards.greenhouse.io OR site:boards.greenhouse.io "Engineering Manager" OR "Platform Engineering Manager" OR "Infrastructure Manager" OR "Head of Infrastructure" remote OR LATAM'
+    enabled: true
+  - name: Greenhouse - Technical Delivery Product Ops
+    query: 'site:job-boards.greenhouse.io OR site:boards.greenhouse.io "Technical Project Manager" OR "Technical Program Manager" OR "Delivery Manager" OR "Product Lead" OR "Product Operations Manager" remote OR LATAM'
+    enabled: true
+  - name: Greenhouse - Production Systems Engineer
+    query: 'site:job-boards.greenhouse.io "Production Engineer" OR "Systems Engineer" OR "Cloud Operations Engineer" OR "DevSecOps" remote OR LATAM'
+    enabled: true
+  - name: Greenhouse - DevSecOps Security Cloud
+    query: 'site:job-boards.greenhouse.io "DevSecOps Engineer" OR "Cloud Security Engineer" OR "Security Engineer" remote'
+    enabled: true
+
+  # === Lever ===
+  - name: Lever - DevOps SRE
+    query: 'site:jobs.lever.co "DevOps Engineer" OR "SRE" OR "Platform Engineer" remote'
+    enabled: true
+  - name: Lever - Leadership Management
+    query: 'site:jobs.lever.co "Engineering Manager" OR "Technical Program Manager" OR "Head of Technology" OR "Infrastructure Manager" remote OR LATAM'
+    enabled: true
+  - name: Lever - Technical Delivery Product Ops
+    query: 'site:jobs.lever.co "Technical Project Manager" OR "Technical Program Manager" OR "Delivery Manager" OR "Product Lead" OR "IT Project Manager" remote OR LATAM'
+    enabled: true
+
+  # === Workable ===
+  - name: Workable - DevOps Cloud LATAM Spain
+    query: 'site:apply.workable.com "DevOps" OR "Platform Engineer" OR "SRE" OR "Cloud Engineer" OR "Infrastructure Engineer" remote OR LATAM OR Spain'
+    enabled: true
+  - name: Workable - Consulting Delivery Management
+    query: 'site:apply.workable.com "Cloud Delivery Manager" OR "Service Delivery Manager" OR "Infrastructure Manager" OR "Technology Operations Manager" OR "Technical Project Manager" remote OR LATAM OR Spain'
+    enabled: true
+  - name: Workable - Technical Delivery Product Ops
+    query: 'site:apply.workable.com "Technical Program Manager" OR "IT Project Manager" OR "Delivery Manager" OR "Product Lead" OR "Product Operations Manager" remote OR LATAM OR Spain'
+    enabled: true
+
+  # === Remote job boards ===
+  - name: RemoteOK - Infra Cloud
+    query: 'site:remoteok.com "DevOps" OR "SRE" OR "Cloud Engineer" OR "Platform Engineer"'
+    enabled: true
+  - name: WeWorkRemotely - Cloud Infra
+    query: 'site:weworkremotely.com "DevOps" OR "Infrastructure" OR "Cloud Engineer" OR "SRE"'
+    enabled: true
+  - name: Working Nomads - Platform Cloud
+    query: 'site:workingnomads.com "Platform Engineer" OR "Cloud Engineer" OR "Solutions Architect"'
+    enabled: true
+  - name: Remotive - DevOps Cloud
+    query: 'site:remotive.com "DevOps Engineer" OR "Cloud Engineer" OR "Technical Project Manager"'
+    enabled: true
+  - name: Himalayas - Remote Infra
+    query: 'site:himalayas.app "DevOps" OR "SRE" OR "Platform Engineer" OR "Cloud Architect"'
+    enabled: true
+
+  # === LATAM boards ===
+  - name: LATAM Boards - Infra Roles
+    query: 'site:getonbrd.com OR site:torre.ai OR site:wellfound.com "DevOps" OR "Cloud Engineer" OR "Infrastructure Engineer" remote OR LATAM'
+    enabled: true
+  - name: LATAM Boards - Tech Leadership
+    query: 'site:getonbrd.com OR site:torre.ai OR site:wellfound.com "IT Manager" OR "Engineering Manager" OR "Head of Technology" OR "Technical Project Manager" OR "CTO" remote OR LATAM'
+    enabled: true
+  - name: GetOnBrd - LATAM Tech
+    query: 'site:getonbrd.com "DevOps" OR "SRE" OR "Platform" OR "Cloud" OR "Infrastructure" OR "Infraestructura" OR "Kubernetes"'
+    enabled: true
+  - name: Bumeran Argentina - Infra Cloud
+    query: 'site:bumeran.com.ar "DevOps" OR "SRE" OR "Cloud" OR "Infraestructura" OR "Platform" OR "Kubernetes"'
+    enabled: true
+  - name: Bumeran Argentina - IT Management
+    query: 'site:bumeran.com.ar "Gerente de Tecnología" OR "Jefe de Tecnología" OR "IT Manager" OR "Gerente de Infraestructura" OR "Project Manager"'
+    enabled: true
+  - name: Computrabajo Argentina - Technology Leadership
+    query: 'site:ar.computrabajo.com "Gerente de Tecnología" OR "Jefe de Tecnología" OR "Líder de Tecnología" OR "Gerente de Sistemas" OR "Jefe de Sistemas"'
+    enabled: true
+  - name: Computrabajo Argentina - Technical Leads
+    query: 'site:ar.computrabajo.com "Líder Técnico" OR "IT Team Lead" OR "Líder de Infraestructura" OR "Responsable de Sistemas" OR "Responsable de Infraestructura"'
+    enabled: true
+  - name: LinkedIn Argentina - CTO IT Manager
+    query: 'site:linkedin.com/jobs "CTO" OR "Gerente de Tecnología" OR "IT Manager" Argentina'
+    enabled: true
+  - name: Argentina Boards - Systems Management
+    query: 'site:bumeran.com.ar OR site:zonajobs.com.ar OR site:ar.computrabajo.com "Gerente de Sistemas" OR "Jefe de Sistemas" OR "Responsable de Sistemas" OR "Coordinador IT"'
+    enabled: true
+  - name: Computrabajo Argentina - Broad IT Ops
+    query: 'site:ar.computrabajo.com "Project Manager IT" OR "Jefe de Proyecto" OR "PMO" OR "Product Owner" OR "Analista Funcional" OR "Analista de Sistemas"'
+    enabled: true
+  - name: Computrabajo Argentina - Business Tech
+    query: 'site:ar.computrabajo.com "Consultor SAP" OR "Consultor Funcional" OR "Implementador" OR "Transformación Digital" OR "Operaciones IT" OR "Soporte IT"'
+    enabled: true
+  - name: Bumeran Zonajobs Argentina - Broad Tech Ops
+    query: 'site:bumeran.com.ar OR site:zonajobs.com.ar "Project Manager IT" OR "Jefe de Proyecto" OR "PMO" OR "Product Owner" OR "Analista Funcional" OR "Analista de Sistemas"'
+    enabled: true
+  - name: LinkedIn Argentina - Broad Tech Ops
+    query: 'site:linkedin.com/jobs "Project Manager IT" OR "Product Owner" OR "Analista Funcional" OR "PMO" OR "Transformación Digital" Argentina'
+    enabled: true
+
+  # === Spain boards ===
+  - name: Tecnoempleo - Spain Tech Infra
+    query: 'site:tecnoempleo.com "DevOps" OR "SRE" OR "Cloud Engineer" OR "Platform Engineer" OR "Infraestructura" OR "Kubernetes"'
+    enabled: true
+  - name: Infojobs - Spain Engineer
+    query: 'site:infojobs.net "DevOps Engineer" OR "Site Reliability" OR "Cloud Engineer" OR "Platform Engineer" OR "Ingeniero DevOps"'
+    enabled: true
+
+tracked_companies:
+  # === EXISTING — Global cloud / infrastructure ===
+  - name: Airtable
+    careers_url: https://job-boards.greenhouse.io/airtable
+    api: https://boards-api.greenhouse.io/v1/boards/airtable/jobs
+    notes: "Platform company with infrastructure and reliability roles."
+    enabled: true
+  - name: Vercel
+    careers_url: https://job-boards.greenhouse.io/vercel
+    api: https://boards-api.greenhouse.io/v1/boards/vercel/jobs
+    notes: "Platform and edge infrastructure hiring."
+    enabled: true
+  - name: Temporal
+    careers_url: https://job-boards.greenhouse.io/temporal
+    api: https://boards-api.greenhouse.io/v1/boards/temporal/jobs
+    notes: "Workflow orchestration with platform and production engineering relevance."
+    enabled: true
+  - name: RunPod
+    careers_url: https://job-boards.greenhouse.io/runpod
+    api: https://boards-api.greenhouse.io/v1/boards/runpod/jobs
+    notes: "Cloud infrastructure and GPU platform company."
+    enabled: true
+  - name: CoreWeave
+    careers_url: https://job-boards.greenhouse.io/coreweave
+    api: https://boards-api.greenhouse.io/v1/boards/coreweave/jobs
+    notes: "Cloud infrastructure operator with platform and reliability depth."
+    enabled: true
+  - name: Glean
+    careers_url: https://job-boards.greenhouse.io/gleanwork
+    api: https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs
+    notes: "Enterprise platform company with technical operations opportunities."
+    enabled: true
+  - name: Hightouch
+    careers_url: https://job-boards.greenhouse.io/hightouch
+    api: https://boards-api.greenhouse.io/v1/boards/hightouch/jobs
+    notes: "Technical product company with infra and platform-adjacent roles."
+    enabled: true
+  - name: PlanetScale
+    careers_url: https://job-boards.greenhouse.io/planetscale
+    api: https://boards-api.greenhouse.io/v1/boards/planetscale/jobs
+    notes: "Cloud database platform with infrastructure relevance."
+    enabled: true
+  - name: Supabase
+    careers_url: https://jobs.ashbyhq.com/supabase
+    notes: "Remote-first developer infrastructure company."
+    enabled: true
+  - name: WorkOS
+    careers_url: https://jobs.ashbyhq.com/workos
+    notes: "Enterprise platform APIs and technical infrastructure roles."
+    enabled: true
+  - name: Clerk
+    careers_url: https://jobs.ashbyhq.com/clerk
+    notes: "Developer platform company with technical and platform roles."
+    enabled: true
+  - name: Inngest
+    careers_url: https://jobs.ashbyhq.com/inngest
+    notes: "Workflow and event infrastructure company."
+    enabled: true
+  - name: Resend
+    careers_url: https://jobs.ashbyhq.com/resend
+    notes: "Developer infrastructure and delivery tooling."
+    enabled: true
+  - name: Grafana Labs
+    careers_url: https://jobs.ashbyhq.com/grafanalabs
+    notes: "Observability platform with strong infrastructure fit. Disabled — 404 on ATS endpoint."
+    enabled: false
+  - name: Render
+    careers_url: https://jobs.ashbyhq.com/render
+    notes: "Cloud platform company with production and reliability focus."
+    enabled: true
+  - name: Neon
+    careers_url: https://jobs.ashbyhq.com/neon
+    notes: "Cloud Postgres platform with infra depth."
+    enabled: true
+  - name: Pulumi
+    careers_url: https://jobs.ashbyhq.com/pulumi
+    notes: "Infrastructure as code company with strong cloud relevance. Note: returned 404 on last scan — verify slug."
+    enabled: true
+  - name: PostHog
+    careers_url: https://jobs.ashbyhq.com/posthog
+    notes: "Remote product company with platform and technical operations roles."
+    enabled: true
+
+  # === NEW — Global cloud / infrastructure ===
+  - name: GitLab
+    careers_url: https://job-boards.greenhouse.io/gitlab
+    api: https://boards-api.greenhouse.io/v1/boards/gitlab/jobs
+    notes: "Fully remote DevOps platform company — high volume of SRE and platform roles."
+    enabled: true
+  - name: Datadog
+    careers_url: https://job-boards.greenhouse.io/datadog
+    api: https://boards-api.greenhouse.io/v1/boards/datadog/jobs
+    notes: "Cloud monitoring and observability platform with deep infra engineering roles."
+    enabled: true
+  - name: Cloudflare
+    careers_url: https://job-boards.greenhouse.io/cloudflare
+    api: https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs
+    notes: "Network infrastructure and edge platform — strong SRE and reliability culture."
+    enabled: true
+  - name: Elastic
+    careers_url: https://job-boards.greenhouse.io/elastic
+    api: https://boards-api.greenhouse.io/v1/boards/elastic/jobs
+    notes: "Search and observability platform — remote-friendly, global hiring."
+    enabled: true
+  - name: Canonical
+    careers_url: https://job-boards.greenhouse.io/canonical
+    api: https://boards-api.greenhouse.io/v1/boards/canonical/jobs
+    notes: "Ubuntu/Linux company — fully remote, strong infra and cloud engineering culture."
+    enabled: true
+  - name: Caylent
+    careers_url: https://job-boards.greenhouse.io/caylent
+    api: https://boards-api.greenhouse.io/v1/boards/caylent/jobs
+    notes: "AWS cloud services partner — DevOps, cloud architecture, remote LATAM-friendly."
+    enabled: true
+  - name: Docker
+    careers_url: https://jobs.ashbyhq.com/docker
+    notes: "Container platform company — platform and infrastructure engineering roles."
+    enabled: true
+  - name: Snyk
+    careers_url: https://jobs.ashbyhq.com/snyk
+    notes: "DevSecOps and cloud security platform — remote-first."
+    enabled: true
+  - name: Harness
+    careers_url: https://apply.workable.com/harness
+    notes: "CI/CD and DevOps platform — platform engineering and SRE roles."
+    enabled: true
+  - name: CloudBees
+    careers_url: https://apply.workable.com/cloudbees
+    notes: "CI/CD and software delivery platform — DevOps and platform engineering."
+    enabled: true
+  - name: HashiCorp
+    careers_url: https://apply.workable.com/hashicorp
+    notes: "Infrastructure as code (Terraform, Vault) — acquired by IBM 2023, currently 0 jobs on Workable but monitoring."
+    enabled: true
+
+  # === ARGENTINA ===
+  - name: Mercado Libre
+    careers_url: https://www.mercadolibre.com.ar/empleos
+    notes: "Argentina/LATAM technology leader; strong fit for engineering management, TPM, infrastructure, platform, and operations leadership."
+    enabled: true
+  - name: Globant
+    careers_url: https://career.globant.com
+    notes: "Argentina-founded global consultancy; strong fit for delivery management, cloud leadership, TPM, and technology management roles."
+    enabled: true
+  - name: Baufest
+    careers_url: https://www.baufest.com/en/jobs/
+    notes: "Argentina technology consultancy; relevant for project/program management, cloud delivery, infrastructure leadership, and IT management."
+    enabled: true
+  - name: Naranja X
+    careers_url: https://www.naranjax.com/trabaja-con-nosotros
+    notes: "Argentine fintech; relevant for technology management, platform leadership, cloud operations, and digital transformation roles."
+    enabled: true
+  - name: Ualá
+    careers_url: https://apply.workable.com/uala
+    notes: "Argentine fintech unicorn — technology, infrastructure, leadership, and operations roles in a Spanish-speaking market."
+    enabled: true
+  - name: Despegar
+    careers_url: https://jobs.lever.co/despegar
+    notes: "LATAM travel platform — engineering, infrastructure, platform, and technology leadership roles across LATAM."
+    enabled: true
+
+  # === BRAZIL ===
+  - name: Nubank
+    careers_url: https://job-boards.greenhouse.io/nubank
+    api: https://boards-api.greenhouse.io/v1/boards/nubank/jobs
+    notes: "Largest neobank in LatAm — strong engineering culture, remote-friendly."
+    enabled: true
+  - name: VTEX
+    careers_url: https://job-boards.greenhouse.io/vtex
+    api: https://boards-api.greenhouse.io/v1/boards/vtex/jobs
+    notes: "E-commerce cloud platform — platform and infrastructure engineering roles."
+    enabled: true
+  - name: Stone
+    careers_url: https://job-boards.greenhouse.io/stone
+    api: https://boards-api.greenhouse.io/v1/boards/stone/jobs
+    notes: "Brazilian fintech and payments platform — cloud and infrastructure roles."
+    enabled: true
+  - name: iFood
+    careers_url: https://apply.workable.com/ifood
+    notes: "Brazil's leading food delivery platform — strong SRE and platform engineering."
+    enabled: true
+  - name: PicPay
+    careers_url: https://apply.workable.com/picpay
+    notes: "Brazilian digital payments company — cloud infrastructure and platform roles."
+    enabled: true
+  - name: Hotmart
+    careers_url: https://apply.workable.com/hotmart
+    notes: "Digital content platform — engineering and cloud infrastructure roles."
+    enabled: true
+  - name: Creditas
+    careers_url: https://apply.workable.com/creditas
+    notes: "Brazilian fintech lending platform — engineering and cloud roles."
+    enabled: true
+  - name: Conta Azul
+    careers_url: https://apply.workable.com/contaazul
+    notes: "Brazilian SMB SaaS — cloud and infrastructure engineering."
+    enabled: true
+
+  # === URUGUAY ===
+  - name: dLocal
+    careers_url: https://jobs.lever.co/dlocal
+    notes: "Global payments platform based in Uruguay — remote-friendly, LATAM-first."
+    enabled: true
+  - name: Rootstrap
+    careers_url: https://job-boards.greenhouse.io/rootstrap
+    api: https://boards-api.greenhouse.io/v1/boards/rootstrap/jobs
+    notes: "Uruguayan software consultancy — remote engineering and platform roles."
+    enabled: true
+
+  # === COLOMBIA ===
+  - name: Rappi
+    careers_url: https://apply.workable.com/rappi
+    notes: "LATAM super-app — strong platform and infrastructure engineering."
+    enabled: true
+  - name: Addi
+    careers_url: https://jobs.ashbyhq.com/addi
+    notes: "Colombian fintech — engineering roles targeting LATAM markets."
+    enabled: true
+  - name: Lean Tech
+    careers_url: https://apply.workable.com/leantech
+    notes: "Colombian tech consultancy — cloud and infrastructure engineering, remote."
+    enabled: true
+
+  # === MEXICO ===
+  - name: Kavak
+    careers_url: https://jobs.lever.co/kavak
+    notes: "Mexican automotive marketplace — platform and cloud infrastructure roles."
+    enabled: true
+  - name: Bitso
+    careers_url: https://job-boards.greenhouse.io/bitso
+    api: https://boards-api.greenhouse.io/v1/boards/bitso/jobs
+    notes: "Mexican crypto exchange — cloud, platform, and security engineering."
+    enabled: true
+  - name: Wizeline
+    careers_url: https://job-boards.greenhouse.io/wizeline
+    api: https://boards-api.greenhouse.io/v1/boards/wizeline/jobs
+    notes: "Mexican tech consultancy — cloud and platform engineering, remote global."
+    enabled: true
+  - name: Clara
+    careers_url: https://job-boards.greenhouse.io/clara
+    api: https://boards-api.greenhouse.io/v1/boards/clara/jobs
+    notes: "Mexican B2B payments platform — cloud and infrastructure engineering."
+    enabled: true
+  - name: Clip
+    careers_url: https://apply.workable.com/clip
+    notes: "Mexican payments platform — engineering and infrastructure roles."
+    enabled: true
+  - name: Kueski
+    careers_url: https://jobs.ashbyhq.com/kueski
+    notes: "Mexican lending fintech — cloud infrastructure and platform engineering."
+    enabled: true
+  - name: Stori
+    careers_url: https://apply.workable.com/stori
+    notes: "Mexican credit fintech — engineering and infrastructure roles."
+    enabled: true
+  - name: Belvo
+    careers_url: https://jobs.ashbyhq.com/belvo
+    notes: "Open finance API platform for LATAM — platform and infrastructure engineering."
+    enabled: true
+
+  # === SPAIN ===
+  - name: Cabify
+    careers_url: https://job-boards.greenhouse.io/cabify
+    api: https://boards-api.greenhouse.io/v1/boards/cabify/jobs
+    notes: "Spanish ride-hailing platform — platform engineering and reliability roles."
+    enabled: true
+  - name: Wallapop
+    careers_url: https://job-boards.eu.greenhouse.io/wallapop
+    api: https://boards-api.greenhouse.io/v1/boards/wallapop/jobs
+    notes: "Spanish marketplace — platform and infrastructure engineering."
+    enabled: true
+  - name: Typeform
+    careers_url: https://job-boards.greenhouse.io/typeform
+    api: https://boards-api.greenhouse.io/v1/boards/typeform/jobs
+    notes: "Spanish SaaS — remote-first, platform and cloud engineering roles."
+    enabled: true
+  - name: TravelPerk
+    careers_url: https://apply.workable.com/travelperk
+    notes: "Barcelona-based B2B travel platform — engineering and infrastructure roles."
+    enabled: true
+  - name: Factorial
+    careers_url: https://apply.workable.com/factorial
+    notes: "Barcelona HR SaaS — platform engineering and cloud infrastructure."
+    enabled: true
+  - name: Jobandtalent
+    careers_url: https://jobs.lever.co/jobandtalent
+    notes: "Madrid staffing tech platform — engineering and infrastructure roles."
+    enabled: true
+  - name: Glovo
+    careers_url: https://apply.workable.com/glovo
+    notes: "Barcelona delivery platform — strong SRE and platform engineering culture."
+    enabled: true
+  - name: Adevinta
+    careers_url: https://apply.workable.com/adevinta
+    notes: "Oslo/Barcelona classifieds platform — platform and cloud engineering."
+    enabled: true
+  - name: Idealista
+    careers_url: https://apply.workable.com/idealista
+    notes: "Spanish real estate portal — engineering and infrastructure roles."
+    enabled: true
+  - name: Sngular
+    careers_url: https://apply.workable.com/sngular
+    notes: "Spanish tech consultancy — cloud, DevOps, and platform engineering."
+    enabled: true
+
+  # === CONSULTING & ENTERPRISE ===
+  - name: Accenture
+    careers_url: https://www.accenture.com/us-en/careers
+    notes: "Enterprise consulting; strong fit for cloud delivery, technology program management, service delivery, and infrastructure leadership."
+    enabled: true
+  - name: Capgemini
+    careers_url: https://www.capgemini.com/careers/
+    notes: "Global technology consulting; relevant for cloud practice, delivery management, infrastructure, SAP, and transformation leadership."
+    enabled: true
+  - name: NTT Data
+    careers_url: https://www.nttdata.com/global/en/careers
+    notes: "Enterprise technology services; relevant for IT management, cloud delivery, SAP/integration, and infrastructure program roles."
+    enabled: true
+  - name: Kyndryl
+    careers_url: https://www.kyndryl.com/us/en/careers
+    notes: "Infrastructure services company; strong fit for infrastructure manager, service delivery manager, cloud operations, and IT operations leadership."
+    enabled: true
+  - name: Softtek
+    careers_url: https://www.softtek.com/careers
+    notes: "LATAM-founded IT services company; relevant for technology management, cloud delivery, infrastructure leadership, and project management."
+    enabled: true
+  - name: Minsait
+    careers_url: https://www.minsait.com/en/talent
+    notes: "Indra technology subsidiary; relevant for digital transformation, infrastructure, SAP, cloud, and delivery management roles."
+    enabled: true
+  - name: Indra
+    careers_url: https://www.indracompany.com/en/talent
+    notes: "Enterprise technology and systems integrator; relevant for IT management, infrastructure programs, and technology operations."
+    enabled: true
+  - name: Deloitte
+    careers_url: https://www.deloitte.com/global/en/careers.html
+    notes: "Consulting and advisory firm; relevant for cloud transformation, technology management, SAP/integration, and program leadership."
+    enabled: true
+  - name: EY
+    careers_url: https://www.ey.com/en_gl/careers
+    notes: "Consulting and advisory firm; relevant for technology transformation, IT advisory, cloud delivery, and program management."
+    enabled: true
+  - name: PwC
+    careers_url: https://www.pwc.com/gx/en/careers.html
+    notes: "Consulting and advisory firm; relevant for technology consulting, cloud transformation, IT management, and enterprise delivery."
+    enabled: true
+
+  # === CLOUD & TECHNOLOGY LEADERSHIP ===
+  - name: AWS
+    careers_url: https://www.amazon.jobs
+    notes: "Cloud provider; relevant for cloud program lead, technical program manager, cloud delivery, solutions architecture, and infrastructure leadership."
+    enabled: true
+  - name: Microsoft
+    careers_url: https://careers.microsoft.com
+    notes: "Cloud and enterprise platform company; relevant for cloud solution leadership, technical program management, service delivery, and customer engineering leadership."
+    enabled: true
+  - name: Google Cloud
+    careers_url: https://www.google.com/about/careers/applications/
+    notes: "Cloud provider; relevant for technical program management, cloud infrastructure leadership, customer engineering, and platform operations."
+    enabled: true
+  - name: Red Hat
+    careers_url: https://www.redhat.com/en/jobs
+    notes: "Open-source enterprise infrastructure company; relevant for cloud platform leadership, technical program management, service delivery, and infrastructure operations."
+    enabled: true
