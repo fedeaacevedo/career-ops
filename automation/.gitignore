@@ -1,0 +1,13 @@
+data/*.db
+data/*.db-*
+generated/*
+logs/*
+reports/*
+sent/*
+cvs/*.pdf
+
+!generated/.gitkeep
+!logs/.gitkeep
+!reports/.gitkeep
+!sent/.gitkeep
+!cvs/.gitkeep

@@ -1,0 +1,165 @@
+min_score_to_generate: 70
+min_score_to_email: 85
+dry_run: true
+daily_email_limit: 10
+ascii_only: true
+
+preferred_locations:
+  - LATAM
+  - Latin America
+  - Argentina
+  - Chile
+  - Uruguay
+  - Mexico
+  - México
+  - Colombia
+  - Brasil
+  - Brazil
+  - Spain
+  - España
+  - Remote
+  - Worldwide
+  - Global
+  - Americas
+
+bad_locations:
+  - US only
+  - USA only
+  - United States only
+  - US Remote
+  - Remote-US
+  - Remote: USA
+  - Canada only
+  - India
+  - APJ
+  - MEA
+  - Public Sector Federal
+  - Federal
+
+include_keywords:
+  - DevOps
+  - SRE
+  - Site Reliability
+  - Platform
+  - Cloud
+  - AWS
+  - Azure
+  - GCP
+  - Kubernetes
+  - Terraform
+  - Infrastructure
+  - Infraestructura
+  - Observability
+  - Data
+  - Analytics
+  - IT Manager
+  - Technology Manager
+  - CTO
+  - Solutions Architect
+  - Cloud Architect
+  - DevSecOps
+  - Security
+  - IAM
+  - Applications
+  - Business Systems
+  - SAP
+  - Enterprise Systems
+  - Technical Project Manager
+
+exclude_keywords:
+  - Sales
+  - Account Executive
+  - Recruiter
+  - Talent Acquisition
+  - Human Resources
+  - Marketing
+  - Product Marketing
+  - Design
+  - Creative
+  - Legal
+  - Compensation
+  - Benefits
+  - Collections
+  - Mobile
+  - Junior
+  - Intern
+
+english_hard_keywords:
+  - native English
+  - fluent English
+  - advanced English
+  - C1
+  - C2
+  - bilingual
+  - excellent verbal English
+  - client-facing English very strong
+
+english_ok_keywords:
+  - intermediate English
+  - technical English
+  - B1
+  - B2
+  - desirable English
+  - English is a plus
+  - ingles intermedio
+  - inglés intermedio
+  - ingles tecnico
+  - inglés técnico
+
+categories:
+  DevOps / SRE / Platform:
+    - DevOps
+    - SRE
+    - Site Reliability
+    - Platform
+    - GitOps
+    - Kubernetes
+    - Terraform
+  Cloud / Solutions Architect:
+    - Cloud Architect
+    - Solutions Architect
+    - AWS
+    - Azure
+    - GCP
+    - Public Cloud
+  Data / Analytics:
+    - Data
+    - Analytics
+    - Data Lake
+    - BI
+    - Observability
+  IT Management:
+    - IT Manager
+    - Technology Manager
+    - CTO
+    - Head of Technology
+    - Director of Engineering
+    - Engineering Manager
+  Technical Project Management:
+    - Technical Project Manager
+    - Technical Program Manager
+    - Project Manager
+    - Delivery Manager
+  Infrastructure / IT Ops:
+    - Infrastructure
+    - Infraestructura
+    - IT Ops
+    - Operations
+    - Systems Engineer
+    - Linux
+  Security / DevSecOps:
+    - Security
+    - DevSecOps
+    - IAM
+    - Threat
+    - Compliance
+  Applications / Business Systems:
+    - Applications
+    - Business Systems
+    - ERP
+    - Functional
+    - Aplicaciones
+  SAP / Enterprise Systems:
+    - SAP
+    - Enterprise Systems
+    - ERP
