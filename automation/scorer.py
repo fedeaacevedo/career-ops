@@ -50,6 +50,17 @@ GEO_GOOD_MARKET = [
 ]
 GEO_MEDIUM_MARKET = ["emea", "germany", "netherlands"]
 GEO_BAD_EXCEPTIONS = ["latam", "worldwide", "spain"]
+UNSUPPORTED_REGION_MARKERS = [
+    "india",
+    "(india)",
+    "global si (india)",
+    "apj",
+    "mea",
+    "united arab emirates",
+    "uae",
+    "singapore",
+    "japan",
+]
 
 
 def _parse_scalar(value: str) -> Any:
@@ -187,6 +198,7 @@ def score_job(job: Job, settings: dict[str, Any] | None = None) -> ScoreResult:
     full_text = " ".join([job.company, job.title, job.location, job.url]).lower()
     client_facing = _contains_any(content_text, CLIENT_FACING_KEYWORDS)
     us_only_remote_inferred = _contains_any(full_text, US_ONLY_REMOTE_MARKERS)
+    unsupported_region = _contains_market(full_text, UNSUPPORTED_REGION_MARKERS)
     if english_hard:
         english_risk = "high"
         score -= 35
@@ -264,13 +276,24 @@ def score_job(job: Job, settings: dict[str, Any] | None = None) -> ScoreResult:
         score -= min(35, 12 + len(set(exclude_hits)) * 5)
         risks.append("Out-of-profile signals: " + ", ".join(exclude_hits[:6]))
 
-    score = max(0, min(100, score))
-    if geo_fit == "bad":
+    # Hard geo override has top priority over any positive signal.
+    if unsupported_region:
+        geo_fit = "bad"
+        english_risk = "high"
+        score = min(score, 40)
         should_apply = False
-    elif english_risk == "high" and score < 90:
-        should_apply = False
+        if "Geo risk: role focused on unsupported region" not in risks:
+            risks.append("Geo risk: role focused on unsupported region")
     else:
-        should_apply = score >= 75 and geo_fit != "bad" and english_risk != "high"
+        score = max(0, min(100, score))
+        if geo_fit == "bad":
+            should_apply = False
+        elif english_risk == "high" and score < 90:
+            should_apply = False
+        else:
+            should_apply = score >= 75 and geo_fit != "bad" and english_risk != "high"
+
+    score = max(0, min(100, score))
     if not reasons:
         reasons.append("Insufficient positive signals from title/location; manual review recommended")
 
@@ -331,6 +354,21 @@ def _run_tests() -> None:
                 description="Platform engineering role",
             ),
             lambda r: r.english_risk == "high" and r.geo_fit == "bad" and r.should_apply is False,
+        ),
+        (
+            "unsupported region marker should hard-block apply and cap score",
+            Job(
+                url="https://example.com/gitlab-global-si-india",
+                company="GitLab",
+                title="Senior Solutions Architect, Global SI (India)",
+                location="Remote",
+                description="Global role for partner ecosystem",
+            ),
+            lambda r: r.score <= 40
+            and r.geo_fit == "bad"
+            and r.english_risk == "high"
+            and r.should_apply is False
+            and "Geo risk: role focused on unsupported region" in r.risks,
         ),
     ]
 
