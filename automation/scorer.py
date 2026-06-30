@@ -23,8 +23,31 @@ CLIENT_FACING_KEYWORDS = [
 ENGLISH_MARKET_HIGH_UK = ["uk", "united kingdom", "ireland", "dublin", "london", "england", "scotland"]
 ENGLISH_MARKET_HIGH_US = ["united states", "usa", "us remote", "canada", "australia"]
 ENGLISH_MARKET_MEDIUM = ["germany", "netherlands", "emea"]
+US_ONLY_REMOTE_MARKERS = [
+    "us remote",
+    "remote-us",
+    "remote usa",
+    "remote: usa",
+    "united states",
+    "usa",
+    "canada + us",
+    "noram",
+]
 GEO_BAD_MARKET = ENGLISH_MARKET_HIGH_UK + ENGLISH_MARKET_HIGH_US
-GEO_GOOD_MARKET = ["spain", "latam", "latin america", "argentina", "uruguay", "chile", "mexico", "colombia", "brazil", "brasil", "remote", "worldwide"]
+GEO_GOOD_MARKET = [
+    "latam",
+    "latin america",
+    "argentina",
+    "uruguay",
+    "chile",
+    "mexico",
+    "colombia",
+    "brazil",
+    "brasil",
+    "spain",
+    "remote worldwide",
+    "worldwide",
+]
 GEO_MEDIUM_MARKET = ["emea", "germany", "netherlands"]
 GEO_BAD_EXCEPTIONS = ["latam", "worldwide", "spain"]
 
@@ -160,22 +183,27 @@ def score_job(job: Job, settings: dict[str, Any] | None = None) -> ScoreResult:
         score += 10
         reasons.append("Location fit: " + ", ".join(preferred_geo[:5]))
     english_risk = "low"
-    location_text = (job.location or "").lower()
     content_text = " ".join([job.title, job.description, job.raw]).lower()
+    full_text = " ".join([job.company, job.title, job.location, job.url]).lower()
     client_facing = _contains_any(content_text, CLIENT_FACING_KEYWORDS)
+    us_only_remote_inferred = _contains_any(full_text, US_ONLY_REMOTE_MARKERS)
     if english_hard:
         english_risk = "high"
         score -= 35
         risks.append("Advanced English risk: " + ", ".join(english_hard[:5]))
-    elif _contains_market(location_text, ENGLISH_MARKET_HIGH_UK):
+    elif us_only_remote_inferred:
+        english_risk = "high"
+        score -= 35
+        risks.append("English risk inferred from title/url: US-only remote role")
+    elif _contains_market(full_text, ENGLISH_MARKET_HIGH_UK):
         english_risk = "high"
         score -= 25
         risks.append("English risk inferred from UK/Ireland market")
-    elif _contains_market(location_text, ENGLISH_MARKET_HIGH_US):
+    elif _contains_market(full_text, ENGLISH_MARKET_HIGH_US):
         english_risk = "high"
         score -= 30
         risks.append("English risk inferred from US/Canada/Australia market")
-    elif _contains_market(location_text, ENGLISH_MARKET_MEDIUM):
+    elif _contains_market(full_text, ENGLISH_MARKET_MEDIUM):
         english_risk = "medium"
         score -= 15
         risks.append("English risk inferred from Germany/Netherlands/EMEA market")
@@ -197,16 +225,19 @@ def score_job(job: Job, settings: dict[str, Any] | None = None) -> ScoreResult:
             risks.append("Client-facing role increases English risk")
 
     geo_fit = "good"
-    has_bad_market = _contains_market(location_text, GEO_BAD_MARKET)
-    has_bad_exception = _contains_market(location_text, GEO_BAD_EXCEPTIONS)
-    has_good_market = _contains_market(location_text, GEO_GOOD_MARKET)
-    has_medium_market = _contains_market(location_text, GEO_MEDIUM_MARKET)
+    has_bad_market = _contains_market(full_text, GEO_BAD_MARKET)
+    has_bad_exception = _contains_market(full_text, GEO_BAD_EXCEPTIONS)
+    has_good_market = _contains_market(full_text, GEO_GOOD_MARKET)
+    has_medium_market = _contains_market(full_text, GEO_MEDIUM_MARKET)
 
-    if _contains_market(location_text, ENGLISH_MARKET_HIGH_UK) and not has_bad_exception:
+    if us_only_remote_inferred:
+        geo_fit = "bad"
+        risks.append("Geo risk inferred from title/url: US-only remote role")
+    elif _contains_market(full_text, ENGLISH_MARKET_HIGH_UK) and not has_bad_exception:
         geo_fit = "bad"
         score -= 30
         risks.append("Geo risk: role appears focused on UK/Ireland")
-    elif _contains_market(location_text, ENGLISH_MARKET_HIGH_US) and not has_bad_exception:
+    elif _contains_market(full_text, ENGLISH_MARKET_HIGH_US) and not has_bad_exception:
         geo_fit = "bad"
         score -= 30
         risks.append("Geo risk: role appears focused on US/Canada/Australia")
@@ -289,6 +320,17 @@ def _run_tests() -> None:
                 description="Client-facing consulting role",
             ),
             lambda r: r.english_risk in {"medium", "high"},
+        ),
+        (
+            "us remote in title should force bad geo and high english risk",
+            Job(
+                url="https://jobs.example.com/perfectserve/senior-platform-engineer",
+                company="PerfectServe",
+                title="Senior Platform Engineer - US Remote",
+                location="",
+                description="Platform engineering role",
+            ),
+            lambda r: r.english_risk == "high" and r.geo_fit == "bad" and r.should_apply is False,
         ),
     ]
 
